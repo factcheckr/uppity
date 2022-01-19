@@ -35,3 +35,13 @@ titleSelector = "li.tit a.list_text_title._fade_link span"
 linkSelector = "li.tit a.list_text_title._fade_link"
 contentSelector = "li.name"
 waitUntil = "networkidle"
+
+[brunch]
+title = "어피티 ─ 브런치"
+url = "https://brunch.co.kr/@uppity#articles"
+entrySelector = "ul.list_article.list_post1 li"
+titleSelector = "strong.tit_subject"
+linkSelector = "a.link_post"
+contentSelector = "div.wrap_sub_content span.article_content"
+imageSelector = "div.post_thumb img.img_thumb"
+waitUntil = "networkidle"
