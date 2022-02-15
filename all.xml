@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 23:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 01:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10255275&amp;t=board</guid>
             <pubDate>Thu, 10 Feb 2022 08:21:58 GMT</pubDate>
             <content:encoded><![CDATA[글로벌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22.02.15] 집값: 나 지금 떨어지고 있니? (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10379355&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10379355&amp;t=board</guid>
+            <pubDate>Tue, 15 Feb 2022 01:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[22.02.14] 미국: 반도체 없이 괜.찮.으.시.겠어요? (어피티 ─ 머니레터)]]></title>
@@ -152,13 +159,6 @@
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9717019&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9717019&amp;t=board</guid>
             <pubDate>Wed, 26 Jan 2022 14:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.01.25] 보험에도 세대가 있다고? (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9678450&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9678450&amp;t=board</guid>
-            <pubDate>Wed, 26 Jan 2022 05:17:29 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
