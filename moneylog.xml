@@ -4,9 +4,21 @@
         <title>어피티 ─ 머니로그</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 07:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 08:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공지
+																			
+											3,000~4,000만원
+										
+																		투자 원칙을 세우고 싶은 20대 직장인의 머니로그																			N]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Mar 2022 08:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220316/ea4382a036e7a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공지
 																			
@@ -282,18 +294,6 @@
             <pubDate>Tue, 01 Mar 2022 04:41:07 GMT</pubDate>
             <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20210915/ebb4f03bf1917.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											2,000~3,000만원
-										
-																		지출 관리는 철저하게! 기간제 교사의 머니로그]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=7966190&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=7966190&amp;t=board</guid>
-            <pubDate>Tue, 01 Mar 2022 04:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20210914/617034fb972c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
