@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2022-03-27T01:31:31.696Z</updated>
+    <updated>2022-03-27T02:48:30.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022. 03. 25] 오랜만에 누아르 영화]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11047293&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11047293&amp;t=board"/>
+        <updated>2022-03-27T02:47:52.554Z</updated>
+        <content type="html"><![CDATA[증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022. 03. 25] 안전자산으로서 입지가 흔들린다?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11047288&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11047288&amp;t=board"/>
+        <updated>2022-03-27T02:47:52.555Z</updated>
+        <content type="html"><![CDATA[글로벌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022. 03. 24] 요즘 흔치 않은 흥행 소식]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11028198&amp;t=board</id>
@@ -59,20 +73,6 @@
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10953528&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10953528&amp;t=board"/>
         <updated>2022-03-21T01:21:20.291Z</updated>
-        <content type="html"><![CDATA[글로벌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 03. 18] (여자)아이들 (인기)아이?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10930146&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10930146&amp;t=board"/>
-        <updated>2022-03-20T07:18:00.828Z</updated>
-        <content type="html"><![CDATA[증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 03. 18] 환율도 유가도 떨어졌다]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10930089&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10930089&amp;t=board"/>
-        <updated>2022-03-20T07:18:00.834Z</updated>
         <content type="html"><![CDATA[글로벌]]></content>
     </entry>
 </feed>
