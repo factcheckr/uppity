@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2022-03-27T23:20:59.401Z</updated>
+    <updated>2022-03-28T01:41:45.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022. 03. 28] 소속 아이돌 컴백 주가 영향은?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11051558&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11051558&amp;t=board"/>
+        <updated>2022-03-28T01:41:09.378Z</updated>
+        <content type="html"><![CDATA[증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022. 03. 28] 쿠팡의 ‘전국구 새벽배송’?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11051540&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11051540&amp;t=board"/>
+        <updated>2022-03-28T01:41:09.381Z</updated>
+        <content type="html"><![CDATA[산업]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022. 03. 25] 오랜만에 누아르 영화]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11047293&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10992088&amp;t=board"/>
         <updated>2022-03-22T01:24:57.720Z</updated>
         <content type="html"><![CDATA[생활경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 03. 21] 해외여행, 빗장이 풀렸다]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10953565&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10953565&amp;t=board"/>
-        <updated>2022-03-21T01:21:20.290Z</updated>
-        <content type="html"><![CDATA[증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 03. 21] 미국 금리 인상 후폭풍은?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10953528&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10953528&amp;t=board"/>
-        <updated>2022-03-21T01:21:20.291Z</updated>
-        <content type="html"><![CDATA[글로벌]]></content>
     </entry>
 </feed>
