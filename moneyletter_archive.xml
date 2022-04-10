@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/moneyletter_archive</id>
     <title>어피티 ─ 머니레터</title>
-    <updated>2022-04-10T05:18:50.393Z</updated>
+    <updated>2022-04-10T06:25:21.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[22.04.08] 어. 난데. 가격 인상. 어어. 진행시켜.]]></title>
+        <id>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11140463&amp;t=board</id>
+        <link href="https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11140463&amp;t=board"/>
+        <updated>2022-04-10T06:25:09.469Z</updated>
+        <content type="html"><![CDATA[UPPITY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[22.04.07] 실손 청구 쉽지 않아(feat. 백내장 수술)]]></title>
         <id>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11122892&amp;t=board</id>
@@ -80,13 +87,6 @@
         <id>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11028034&amp;t=board</id>
         <link href="https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11028034&amp;t=board"/>
         <updated>2022-03-24T01:23:42.385Z</updated>
-        <content type="html"><![CDATA[UPPITY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[22.03.23] 감기약도 코로나에 쓰려면 없다]]></title>
-        <id>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11009536&amp;t=board</id>
-        <link href="https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11009536&amp;t=board"/>
-        <updated>2022-03-23T01:35:10.386Z</updated>
         <content type="html"><![CDATA[UPPITY]]></content>
     </entry>
 </feed>
