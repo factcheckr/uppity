@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2022-04-17T23:21:15.674Z</updated>
+    <updated>2022-04-18T01:54:31.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022. 04. 22] 지글지글 마켓 리뷰 📝]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11188471&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11188471&amp;t=board"/>
+        <updated>2022-04-18T01:53:55.348Z</updated>
+        <content type="html"><![CDATA[글로벌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022. 04. 18] 예금금리는 왜 안 올라?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11188464&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11188464&amp;t=board"/>
+        <updated>2022-04-18T01:53:55.350Z</updated>
+        <content type="html"><![CDATA[금융]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022. 04. 18] ‘사회적 거리두기’ 안녕!]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11188450&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11188450&amp;t=board"/>
+        <updated>2022-04-18T01:53:55.351Z</updated>
+        <content type="html"><![CDATA[경제일반]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022. 04. 15] 애플 + K-POP = ?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11184657&amp;t=board</id>
@@ -52,27 +73,6 @@
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11151288&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11151288&amp;t=board"/>
         <updated>2022-04-12T03:02:22.124Z</updated>
-        <content type="html"><![CDATA[증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 04. 12] 개미 원픽 삼성전자 다시 신저가 기록]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11151272&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11151272&amp;t=board"/>
-        <updated>2022-04-12T03:02:22.124Z</updated>
-        <content type="html"><![CDATA[증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 04. 11] 지글지글 마켓 리뷰 📝]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11144125&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11144125&amp;t=board"/>
-        <updated>2022-04-11T03:11:35.860Z</updated>
-        <content type="html"><![CDATA[글로벌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 04. 11] 경쟁이 쟁쟁한 요즘 신작 드라마]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11144110&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11144110&amp;t=board"/>
-        <updated>2022-04-11T03:11:35.864Z</updated>
         <content type="html"><![CDATA[증권]]></content>
     </entry>
 </feed>
