@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 01:56:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 03:48:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022. 04. 27] 드래곤처럼 날아오를까? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11282127&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11282127&amp;t=board</guid>
+            <pubDate>Wed, 27 Apr 2022 03:47:51 GMT</pubDate>
+            <content:encoded><![CDATA[증권]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2022. 04. 27] 7만 명의 2030, 서울을 떠났다 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11282114&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11282114&amp;t=board</guid>
+            <pubDate>Wed, 27 Apr 2022 03:47:51 GMT</pubDate>
+            <content:encoded><![CDATA[경제일반]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[2022. 04. 26] 잇달아 열리는 미술 경매 (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11272733&amp;t=board</link>
@@ -64,28 +78,14 @@
             <content:encoded><![CDATA[증권]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2022. 04. 21] 택시가 있는데요, 없습니다 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11225923&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11225923&amp;t=board</guid>
-            <pubDate>Thu, 21 Apr 2022 01:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[생활경제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 04. 20] 데이터 기본법이 시행된다 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11210920&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11210920&amp;t=board</guid>
-            <pubDate>Wed, 20 Apr 2022 01:56:10 GMT</pubDate>
-            <content:encoded><![CDATA[증권]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[공지
 																			
 											2,000~3,000만원
 										
 																		진로 고민이 있는 카페 매니저의 머니로그 																			N (어피티 ─ 머니로그)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Tue, 26 Apr 2022 07:20:47 GMT</pubDate>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11275582&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11275582&amp;t=board</guid>
+            <pubDate>Wed, 27 Apr 2022 03:48:10 GMT</pubDate>
             <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20210325/edbbce446d908.png" length="0" type="image/png"/>
         </item>
