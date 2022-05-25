@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 06:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11534088&amp;t=board</guid>
             <pubDate>Tue, 24 May 2022 01:58:38 GMT</pubDate>
             <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		더 나은 미래를 그리는  8년 차 마케터의 머니로그																			N (어피티 ─ 머니로그)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 25 May 2022 06:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220525/f3f977001532f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Tue, 01 Mar 2022 04:41:07 GMT</pubDate>
             <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20211124/d35aa0f945da2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											3,000~4,000만원
-										
-																		투자 노하우가 필요해! 6년 차 공무원의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=8862859&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=8862859&amp;t=board</guid>
-            <pubDate>Tue, 01 Mar 2022 04:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20211117/f5cd908e3f81d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[22.05.25] 한컴이 쏘아 올린 인공위성? (어피티 ─ 머니레터)]]></title>
