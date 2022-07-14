@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2022-07-14T02:09:03.776Z</updated>
+    <updated>2022-07-14T04:10:48.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022. 07. 14] 우리나라 사상 첫 빅스텝]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12280056&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12280056&amp;t=board"/>
+        <updated>2022-07-14T04:10:10.840Z</updated>
+        <content type="html"><![CDATA[경제정책]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022. 07. 14] 전세대란 말고, 월세대란?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12280046&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12280046&amp;t=board"/>
+        <updated>2022-07-14T04:10:10.841Z</updated>
+        <content type="html"><![CDATA[부동산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022. 07. 13] 이제는 잘 갚을 때!]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12271761&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12215560&amp;t=board"/>
         <updated>2022-07-10T08:25:05.035Z</updated>
         <content type="html"><![CDATA[글로벌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 07. 07] 카드사에 날아온 경고장]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12149869&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12149869&amp;t=board"/>
-        <updated>2022-07-07T05:28:07.964Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 07. 07] 카카오톡은 거기서 다운받을 수 없어]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12149838&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12149838&amp;t=board"/>
-        <updated>2022-07-07T05:28:07.971Z</updated>
-        <content type="html"><![CDATA[산업]]></content>
     </entry>
 </feed>

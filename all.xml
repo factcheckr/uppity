@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 02:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 04:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022. 07. 14] 우리나라 사상 첫 빅스텝 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12280056&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12280056&amp;t=board</guid>
+            <pubDate>Thu, 14 Jul 2022 04:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[경제정책]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2022. 07. 14] 전세대란 말고, 월세대란? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12280046&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12280046&amp;t=board</guid>
+            <pubDate>Thu, 14 Jul 2022 04:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[부동산]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[2022. 07. 13] 이제는 잘 갚을 때! (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12271761&amp;t=board</link>
@@ -62,20 +76,6 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12215560&amp;t=board</guid>
             <pubDate>Sun, 10 Jul 2022 08:25:05 GMT</pubDate>
             <content:encoded><![CDATA[글로벌]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 07. 07] 카드사에 날아온 경고장 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12149869&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12149869&amp;t=board</guid>
-            <pubDate>Thu, 07 Jul 2022 05:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[금융]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 07. 07] 카카오톡은 거기서 다운받을 수 없어 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12149838&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12149838&amp;t=board</guid>
-            <pubDate>Thu, 07 Jul 2022 05:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[산업]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
@@ -366,6 +366,13 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20220112/51aab986b2838.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[22.07.14] 전세대란 말고, 월세대란? (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12280036&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12280036&amp;t=board</guid>
+            <pubDate>Thu, 14 Jul 2022 04:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[22.07.13] 이제는 잘 갚을 때! (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12271734&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12271734&amp;t=board</guid>
@@ -440,13 +447,6 @@
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12007784&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12007784&amp;t=board</guid>
             <pubDate>Wed, 29 Jun 2022 04:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.06.28] 기대보다 덜 올라서 기대할 만하다고? (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11980197&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11980197&amp;t=board</guid>
-            <pubDate>Tue, 28 Jun 2022 01:58:41 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
