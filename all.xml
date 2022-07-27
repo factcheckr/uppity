@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 06:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 07:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2202. 07. 27] 종이 가격이 올랐어요 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12432551&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12432551&amp;t=board</guid>
+            <pubDate>Wed, 27 Jul 2022 07:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2202. 07. 27] 대형마트, 매주 일요일에 연다? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12432526&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12432526&amp;t=board</guid>
+            <pubDate>Wed, 27 Jul 2022 07:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[경제정책]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[2022. 07. 26] 7월 FOMC에 주목하세요 (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12409920&amp;t=board</link>
@@ -64,18 +78,16 @@
             <content:encoded><![CDATA[산업]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2022. 07. 20] ‘택배’ 스미싱 조심하세요! (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12359093&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12359093&amp;t=board</guid>
-            <pubDate>Wed, 20 Jul 2022 03:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[생활경제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 07. 20] 치솟는 물가의 핵심 원인 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12359074&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12359074&amp;t=board</guid>
-            <pubDate>Wed, 20 Jul 2022 03:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌]]></content:encoded>
+            <title><![CDATA[공지
+																			
+											3,000~4,000만원
+										
+																		회사를 계속 다녀야 할지 고민이에요!  2년 차 사원의 머니로그																			N (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12432300&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12432300&amp;t=board</guid>
+            <pubDate>Wed, 27 Jul 2022 07:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220727/9f20ebc1d193a.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -354,16 +366,11 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20220126/58e112e3ba709.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공지
-																			
-											3,000~4,000만원
-										
-																		디지털 노마드를 꿈꾸는 4년 차 사무직의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9499053&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9499053&amp;t=board</guid>
-            <pubDate>Tue, 01 Mar 2022 04:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220119/87aef689b87be.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[22.07.27] 펄프가격 오르고 제지업체 주가도 오르고 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12432419&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12432419&amp;t=board</guid>
+            <pubDate>Wed, 27 Jul 2022 07:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[22.07.26] 청년희망적금이 달라진다고? (어피티 ─ 머니레터)]]></title>
@@ -440,13 +447,6 @@
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12258956&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12258956&amp;t=board</guid>
             <pubDate>Tue, 12 Jul 2022 04:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.07.11] 요즘 내집 마련 트렌드는? (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12231638&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12231638&amp;t=board</guid>
-            <pubDate>Mon, 11 Jul 2022 03:43:41 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
