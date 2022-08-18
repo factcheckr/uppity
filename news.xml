@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2022-08-18T02:14:20.159Z</updated>
+    <updated>2022-08-18T04:22:26.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2202. 08. 18] 대출 경고등이 켜졌어요]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12623772&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12623772&amp;t=board"/>
+        <updated>2022-08-18T04:21:29.210Z</updated>
+        <content type="html"><![CDATA[금융]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2202. 08. 18] 새로운 부동산 정책, 반응은?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12623747&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12623747&amp;t=board"/>
+        <updated>2022-08-18T04:21:29.212Z</updated>
+        <content type="html"><![CDATA[부동산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022. 08. 17] 편의점, 자꾸 가게 되네?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12611845&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12575722&amp;t=board"/>
         <updated>2022-08-11T04:30:08.579Z</updated>
         <content type="html"><![CDATA[경제일반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 08. 10] 베일을 벗는 삼전의 신작]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12561687&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12561687&amp;t=board"/>
-        <updated>2022-08-10T05:19:20.932Z</updated>
-        <content type="html"><![CDATA[산업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 08. 10] 올해 난방용 에너지 충분? 부족?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12561670&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12561670&amp;t=board"/>
-        <updated>2022-08-10T05:19:20.933Z</updated>
-        <content type="html"><![CDATA[글로벌]]></content>
     </entry>
 </feed>
