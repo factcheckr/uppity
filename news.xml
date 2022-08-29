@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2022-08-29T06:11:00.189Z</updated>
+    <updated>2022-08-29T07:28:08.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022. 08. 29] 소리바다, 이젠 안녕]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12694301&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12694301&amp;t=board"/>
+        <updated>2022-08-29T07:27:16.240Z</updated>
+        <content type="html"><![CDATA[증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022. 08. 29] 미국 휴양지에 관심이 쏠린 이유는?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12694291&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12694291&amp;t=board"/>
+        <updated>2022-08-29T07:27:16.240Z</updated>
+        <content type="html"><![CDATA[글로벌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022. 08. 26] 이번 주 문화뉴스!]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12681981&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12653931&amp;t=board"/>
         <updated>2022-08-23T04:45:38.684Z</updated>
         <content type="html"><![CDATA[부동산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 08. 22] 컬리의 증시 데뷔?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12647588&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12647588&amp;t=board"/>
-        <updated>2022-08-22T05:44:15.522Z</updated>
-        <content type="html"><![CDATA[증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 08. 22] 세 번의 위기, 그리고 지금]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12647462&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12647462&amp;t=board"/>
-        <updated>2022-08-22T05:44:15.526Z</updated>
-        <content type="html"><![CDATA[글로벌]]></content>
     </entry>
 </feed>
