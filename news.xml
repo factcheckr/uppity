@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2022-09-04T23:22:36.409Z</updated>
+    <updated>2022-09-05T02:25:02.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022. 09. 05] 물가, 얼마나 ‘더’ 올랐어?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12768141&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12768141&amp;t=board"/>
+        <updated>2022-09-05T02:24:27.271Z</updated>
+        <content type="html"><![CDATA[생활경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022. 09. 05] 서울 택시 기본요금 4,800원으로]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12768122&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12768122&amp;t=board"/>
+        <updated>2022-09-05T02:24:27.271Z</updated>
+        <content type="html"><![CDATA[생활경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022. 09. 02] 이번 주 문화계 이슈는?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12761160&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12722110&amp;t=board"/>
         <updated>2022-08-30T04:51:42.651Z</updated>
         <content type="html"><![CDATA[증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 08. 29] 소리바다, 이젠 안녕]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12694301&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12694301&amp;t=board"/>
-        <updated>2022-08-29T07:27:16.240Z</updated>
-        <content type="html"><![CDATA[증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 08. 29] 미국 휴양지에 관심이 쏠린 이유는?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12694291&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12694291&amp;t=board"/>
-        <updated>2022-08-29T07:27:16.240Z</updated>
-        <content type="html"><![CDATA[글로벌]]></content>
     </entry>
 </feed>

@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 23:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 02:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022. 09. 05] 물가, 얼마나 ‘더’ 올랐어? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12768141&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12768141&amp;t=board</guid>
+            <pubDate>Mon, 05 Sep 2022 02:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[생활경제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2022. 09. 05] 서울 택시 기본요금 4,800원으로 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12768122&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12768122&amp;t=board</guid>
+            <pubDate>Mon, 05 Sep 2022 02:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[생활경제]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[2022. 09. 02] 이번 주 문화계 이슈는? (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12761160&amp;t=board</link>
@@ -62,20 +76,6 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12722110&amp;t=board</guid>
             <pubDate>Tue, 30 Aug 2022 04:51:42 GMT</pubDate>
             <content:encoded><![CDATA[증권]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 08. 29] 소리바다, 이젠 안녕 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12694301&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12694301&amp;t=board</guid>
-            <pubDate>Mon, 29 Aug 2022 07:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[증권]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 08. 29] 미국 휴양지에 관심이 쏠린 이유는? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12694291&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12694291&amp;t=board</guid>
-            <pubDate>Mon, 29 Aug 2022 07:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
@@ -366,6 +366,13 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20220316/ea4382a036e7a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[22.09.05] 택시: 기본 요금 올라가요 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12768107&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12768107&amp;t=board</guid>
+            <pubDate>Mon, 05 Sep 2022 02:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[22.09.02] 난 슬프다 고로 쇼핑한다 (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12761141&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12761141&amp;t=board</guid>
@@ -439,13 +446,6 @@
             <title><![CDATA[[22.08.19] ???: 지금 사면 곧 3배로 뛰어 (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12642275&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12642275&amp;t=board</guid>
-            <pubDate>Thu, 25 Aug 2022 12:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.08.18] 나왔구나, 마침내(feat. 부동산 정책) (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12623600&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12623600&amp;t=board</guid>
             <pubDate>Thu, 25 Aug 2022 12:42:32 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
