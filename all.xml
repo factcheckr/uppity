@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 08:30:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12742297&amp;t=board</guid>
             <pubDate>Thu, 01 Sep 2022 04:27:48 GMT</pubDate>
             <content:encoded><![CDATA[경제정책]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											2,000만원 이하
+										
+																		적금 납입을 고민하는 대학생의 머니로그																			N (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12790534&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12790534&amp;t=board</guid>
+            <pubDate>Wed, 07 Sep 2022 09:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[2,000만원 이하]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220907/271334533bfe6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Thu, 25 Aug 2022 12:42:24 GMT</pubDate>
             <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20220323/adf6d0aab47dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											3,000~4,000만원
-										
-																		투자 원칙을 세우고 싶은 20대 직장인의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10795326&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10795326&amp;t=board</guid>
-            <pubDate>Thu, 25 Aug 2022 12:42:24 GMT</pubDate>
-            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220316/ea4382a036e7a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[22.09.07] 면세: 오늘부터 한도 올라가요 (어피티 ─ 머니레터)]]></title>
