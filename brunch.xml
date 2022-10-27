@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://brunch.co.kr/@uppity#articles</id>
-    <title>어피티 ─ 브런치</title>
-    <updated>2022-10-27T02:04:29.384Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://brunch.co.kr/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>어피티 ─ 브런치</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Oct 2022 04:07:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돈과 친해지고 싶은 사회초년생의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/122</link>
+            <guid>https://brunch.co.kr/@uppity/122</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 야간대학을 다닐 때부터 꾸준히 일하면서 성실하게 살았습니다.&nbsp;철새가 서식지를 이동하듯이 자주 일터를 옮겨 다녔어요.  프로필  •&nbsp;닉네임:&nbsp;호준 •&nbsp;나이:&nbsp;만 27세 •&nbsp;하는 일:&nbsp;대출법인 사무관리 •&nbsp;첫 직장 기준 근속연수:&nbsp;1년 8개월]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/4Kv0k-Z3T5qP6CE8WL5sBc5z2ao.JPG" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[인도네시아 의류벤더의 알뜰살뜰한 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/121</link>
+            <guid>https://brunch.co.kr/@uppity/121</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 물욕 많은 미니멀리스트, 재기발랄한 활동가, 내일이라도 퇴사하고 싶지만 일 욕심도 많습니다.&nbsp;사진은 제 삶의 70%를 보내고 있는 회사 공장 안, 기숙사 앞에서 찍었어요.  프로필  •&nbsp;닉네임:&nbsp;윤맹구 •&nbsp;나이:&nbsp;만 26세 • 하는 일:&nbsp;]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/onyzoYNWRbHkR0JZssYxHnHpJ8Y.png" length="0" type="image/fpng/"/>
+        </item>
+        <item>
+            <title><![CDATA[경제적 자유를  꿈꾸는 파이어족의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/119</link>
+            <guid>https://brunch.co.kr/@uppity/119</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기  노을 지는 풍경이 예뻐서 찍었어요. 지금은 저층으로 이사 와서 보기 힘든 풍경이 됐어요. 프로필  •&nbsp;닉네임:&nbsp;참새 •&nbsp;나이:&nbsp;만 25세 • 하는 일:&nbsp;공공기관 / 행정직 / 사원 / 교육훈련 • 첫 직장 기준 근속연수:&nbsp;1년 • 세전연]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/XAWRx2Fc5qRWGaYaRrAtvI-J7pA.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[쓸 땐 쓰고 아낄 땐 아끼는 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/120</link>
+            <guid>https://brunch.co.kr/@uppity/120</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 친구들이 좋은 30대, 현재의 삶을 충실하게 즐기며 지내고 있습니다.  프로필  •&nbsp;닉네임:&nbsp;알미 •&nbsp;나이:&nbsp;만 30세 • 하는 일:&nbsp;요양원 인테리어 • 첫 직장 기준 근속연수:&nbsp;4년 • 세전연봉:&nbsp;4,080만 원 • 월평균 실수령액:&nbsp;2]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/Sxep5EemL2X78cslcGWEtKWd7_Y.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[미라클모닝, 프리랜서의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/118</link>
+            <guid>https://brunch.co.kr/@uppity/118</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 오전 5시~5시 30분에 일어나 미라클모닝으로 아침 시간을 활용하고 있어요.&nbsp;이른 시간에 독서나 운동 등 저만의 루틴을 정해서 꾸준히 실천하는 중이에요.&nbsp;매일 어제보다 더 성장하는 삶을 기대합니다. 프로필  •&nbsp;닉네임:&nbsp;마우 •&nbsp;나이:&nbsp;만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/nyDzqMVPpoelSqO_qKct8rPqqUE.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[포인트의 습격, 펭구 매니아의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/117</link>
+            <guid>https://brunch.co.kr/@uppity/117</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 약 5년 전부터 저를 소개할 때마다 아이폰 기본 이모지로 만든&nbsp;이미지를 사용해왔어요. 꼬마펭귄 핑구 캐릭터를 좋아합니다. 프로필  •&nbsp;닉네임:&nbsp;핑가 •&nbsp;나이:&nbsp;만 21세 • 하는 일:&nbsp;보험사 /&nbsp;보험료 정·청산 • 첫 직장 기준 근속연수:]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/HdnLKAbzql1bIzUNUhkJKv-xiPc.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[검소한 투자 모범생,  금융권 직원의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/116</link>
+            <guid>https://brunch.co.kr/@uppity/116</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기  등산을 좋아하고 건강한 라이프스타일을 꿈꾸는 20대 직장인입니다.  프로필  •&nbsp;닉네임:&nbsp;아롱 •&nbsp;나이:&nbsp;만 26세 • 하는 일:&nbsp;금융회사&nbsp;/&nbsp;기획팀&nbsp;/&nbsp;사원&nbsp;/&nbsp;인사총무회계 • 첫 직장 기준 근속연수:&nbsp;1년 5개월 • 세전연봉:&nbsp;3,5]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/2G_vbhBzNeCeEzM0UbzYSMYHTmc.png" length="0" type="image/fpng/"/>
+        </item>
+        <item>
+            <title><![CDATA[1주일에 10만 원으로 살기, 머니챌린저의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/115</link>
+            <guid>https://brunch.co.kr/@uppity/115</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 안녕하세요, 맑이라고 합니다. 저는 요즘&nbsp;‘1주일에 10만 원으로 살기’ 프로젝트를 하고 있어요.  프로필  •&nbsp;닉네임:&nbsp;맑 •&nbsp;나이:&nbsp;만 25세 • 하는 일:&nbsp;공립 유치원교사 • 첫 직장 기준 근속연수:&nbsp;4년 차 • 세전연봉:&nbsp;3,400]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/eiwO7u30xlGASmj64VvITTY-mPg.JPG" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[몸과 마음을 건강하게, 사회초년생의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/114</link>
+            <guid>https://brunch.co.kr/@uppity/114</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 세상 모든 사람이 건강한 삶을 추구하면 좋겠습니다. 채식을 주로 하면서 제로 웨이스트와 미니멀 라이프를 실천합니다. 몸과 마음이 건강한 사람이 되고 싶습니다.  프로필  •&nbsp;닉네임:&nbsp;소루 •&nbsp;나이:&nbsp;만 23세 • 하는 일:&nbsp;공공기관 / 지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/E3vs3VyJQySgVbzByKtPeDv_l-8.JPG" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[학자금 대출 탈출, 3년차 선임의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/113</link>
+            <guid>https://brunch.co.kr/@uppity/113</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 미래에 걱정이 많은 직장인입니다. 요즘 최대 관심사는 학자금 대출 탈출과 사랑, 덕질입니다. 코로나로 올해 콘서트가 취소돼서, 아쉬운 마음에 작년 사진을 골라봤어요.  프로필  •&nbsp;닉네임:&nbsp;힘내라빅히트 •&nbsp;나이:&nbsp;만 26세 • 하는 일:&nbsp;]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/6e0xM8vYNPJK8TyAO5m7abtMYTQ.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[12년간 열두 권의 가계부, IT 디자이너의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/112</link>
+            <guid>https://brunch.co.kr/@uppity/112</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 20살 때부터 32살까지 매일 작성한 가계부가 총 12권 있어요. 가계부를 작성하는 습관이 절약하고 목돈 모으는 데 큰 도움이 됐습니다.  프로필  •&nbsp;닉네임:&nbsp;annie •&nbsp;나이:&nbsp;만 30세 • 하는 일:&nbsp;보험사 / 디지털팀 / IT 디]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/1I0EnbXR8ilPmHoGlo58crSWO1c.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[열정 가득한 일상, 디지털 마케터의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/111</link>
+            <guid>https://brunch.co.kr/@uppity/111</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 저는 하고 싶은 것, 궁금한 것, 이루고 싶은 게 많은 직장인입니다. 회사 외에 문화생활, 연애까지, 주어지는 건 무엇이든 열심히 하는 열정 가득한 일상을 사는 편이에요.  프로필  •&nbsp;닉네임:&nbsp;둥둥 •&nbsp;나이:&nbsp;만 30세 • 하는 일:&nbsp;디]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/bZRYlg35l4OBUVXofsNnxBtQBUs.png" length="0" type="image/fpng/"/>
+        </item>
+        <item>
+            <title><![CDATA[서른 전에 1억 만들기! 26살  사원의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/110</link>
+            <guid>https://brunch.co.kr/@uppity/110</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기  월세 생활 6년을 마무리하고, 햇살이 따뜻한 전셋집으로 이사했습니다. 언젠가는 작더라도 저의 집을 마련하고 싶어요. 30살까지 1억을 모으는 게 목표입니다.  프로필  •&nbsp;닉네임:&nbsp;월세탈출인간 •&nbsp;나이:&nbsp;만 25세 • 하는 일:&nbsp;공공기관]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/tQSxLMpZvEaK3ErvQSQ9dAaK3Ok.png" length="0" type="image/fpng/"/>
+        </item>
+        <item>
+            <title><![CDATA[신용카드가 고민!  투잡하는 21살의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/109</link>
+            <guid>https://brunch.co.kr/@uppity/109</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 차를 타고 엄마와 가까운 해변 근처 카페에 가면 생각도 정리되고, 마음이 한결 편해져요.  프로필  •&nbsp;닉네임:&nbsp;희희낙락 •&nbsp;나이:&nbsp;만 20세 • 하는 일:&nbsp;&nbsp;학교 사무보조(평일) / 카페(주말) • 첫 직장 기준 근속연수:&nbsp;1년 3개월]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/J0Fkj7dlY7qkHrPh4r2n4gDst74.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[배우는 게 즐거워! 26살 연구 개발원의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/108</link>
+            <guid>https://brunch.co.kr/@uppity/108</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 영어, 수영, 필라테스, 보컬 등 항상 새로운 것을 배우고 좋아하는 회사원입니다.  프로필  •&nbsp;닉네임:&nbsp;면주 •&nbsp;나이:&nbsp;만 26세 • 하는 일:&nbsp;연구개발직 • 첫 직장 기준 근속연수:&nbsp;1년 6개월 • 세전연봉:&nbsp;3,550만 원 • 월평균]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/sNrNYspOjJ3IJsYa6Zy05cfeFFU.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[부자 습관을 타고난  30살 디자이너의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/107</link>
+            <guid>https://brunch.co.kr/@uppity/107</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기  회사 업무와 디자인 외주, 당근마켓, 중고거래로 부수입을 올리는 5년 차 직장인입니다. 인생의 기쁨은 먹고 마시는 즐거움에서 찾아요.  프로필  •&nbsp;닉네임:&nbsp;녹차맛아몬드 •&nbsp;나이:&nbsp;만 29세 • 하는 일:&nbsp;언론사 디자인팀 • 첫 직장 기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/cvjP_PMSXIkvY1zfH2N9z8mjNIo.png" length="0" type="image/fpng/"/>
+        </item>
+        <item>
+            <title><![CDATA[취미는 해외여행,  5년 차 직장인의  머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/106</link>
+            <guid>https://brunch.co.kr/@uppity/106</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기   여행하고 경험하는 걸 사랑하는 회사원이에요. 누구와 함께 하는 여행인지가 무척 중요하다고 생각해요. 앞으로 경제적 자유를 누리고 싶은 꿈을 갖고 있어요.  프로필  •&nbsp;닉네임:&nbsp;바우 •&nbsp;나이:&nbsp;만 31세 • 하는 일:&nbsp;중견기업 / 경영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/JejHcmaFIJOvFJPeEHTwV8ssnhM.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[연봉만큼 저축한 4년 차 주임의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/104</link>
+            <guid>https://brunch.co.kr/@uppity/104</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기  프로필  •&nbsp;닉네임:&nbsp;미소콩지 • 나이:&nbsp;만 30세 • 하는 일:&nbsp;금융회사 / 경영관리 &nbsp;/ 4년 차 / 주임 • 첫 직장 기준 근속연수:&nbsp;4년 • 세전연봉: 4,200만 원 • 월평균 실수령액:&nbsp;약 220만 원 • 현재 자산 현금성 자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/nvOAdxPr0fwvMMo63GDStjqM6B8.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[좋아하는 일을 하는 28살 활동가의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/103</link>
+            <guid>https://brunch.co.kr/@uppity/103</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 취미가 많아 행복하지만, 걱정이 많아 불안한 20대 직장인입니다. 취직한 이후에 차가 생겨서, 이곳저곳 운전해 다니는 게 행복합니다.  프로필  •&nbsp;닉네임:&nbsp;고사리 • 나이: 만 28세 • 하는 일: NGO 단체 활동가 / 1년 차 • 첫]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/nhzwnwU2fvfmNh2Z7UMBtfPbEbY.HEIC" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[초년생 돈 관리의 정석, 3년 차 사원의 머니로그]]></title>
+            <link>https://brunch.co.kr/@uppity/102</link>
+            <guid>https://brunch.co.kr/@uppity/102</guid>
+            <pubDate>Thu, 27 Oct 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기  프로필  • 닉네임: 양갱 • 나이: 만 27세 • 하는 일: 개발자 / 시스템운영팀 / 3년 차 / 사원 (내년에 승진 예정) • 첫 직장 기준 근속연수: 3년 차 • 세전연봉: 약 3,300만 원 • 월평균 실수령액:&nbsp;약 238만 원]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/D1VnzMNCmyZ4CCJ9HXLVCh4e_GM.jpg" length="0" type="image/fjpg/"/>
+        </item>
+    </channel>
+</rss>
