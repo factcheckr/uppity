@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 08:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 09:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13630090&amp;t=board</guid>
             <pubDate>Thu, 08 Dec 2022 03:21:01 GMT</pubDate>
             <content:encoded><![CDATA[부동산]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		아파트 청약 대출금을 고민하는 3년 차 개발자의 머니로그																			N (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13673471&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13673471&amp;t=board</guid>
+            <pubDate>Wed, 14 Dec 2022 09:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20221214/87aefaa913ffa.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Wed, 16 Nov 2022 17:37:07 GMT</pubDate>
             <content:encoded><![CDATA[2,000만원 이하]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20220629/041eb09bd7e20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											2,000~3,000만원
-										
-																		부수입에 관심 있는 3년 차 연구원의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11888697&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11888697&amp;t=board</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220622/38020d73f1cd4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[22.12.14] 주52시간에서 주69시간으로? (어피티 ─ 머니레터)]]></title>
