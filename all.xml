@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 03:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 04:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[2022. 12. 14] (어피티 ─ 뉴스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Tue, 13 Dec 2022 15:23:02 GMT</pubDate>
+            <title><![CDATA[[2022. 12. 14] 살짝 유해진 ‘관리종목’ (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13666858&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13666858&amp;t=board</guid>
+            <pubDate>Wed, 14 Dec 2022 04:23:25 GMT</pubDate>
             <content:encoded><![CDATA[증권]]></content:encoded>
         </item>
         <item>
