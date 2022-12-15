@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2022-12-15T01:36:34.848Z</updated>
+    <updated>2022-12-15T02:50:06.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022. 12. 15] 내년 전망은 흐림]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13677611&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13677611&amp;t=board"/>
+        <updated>2022-12-15T02:49:33.222Z</updated>
+        <content type="html"><![CDATA[생활경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022. 12. 15] 기후변화 ‘완전 해결’ 가능하다?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13677585&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13677585&amp;t=board"/>
+        <updated>2022-12-15T02:49:33.222Z</updated>
+        <content type="html"><![CDATA[글로벌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022. 12. 14] 살짝 유해진 ‘관리종목’]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13666858&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13646985&amp;t=board"/>
         <updated>2022-12-11T02:51:13.787Z</updated>
         <content type="html"><![CDATA[글로벌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 12. 08] ‘물류’ 하면 하림?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13630103&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13630103&amp;t=board"/>
-        <updated>2022-12-08T03:21:01.528Z</updated>
-        <content type="html"><![CDATA[산업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 12. 08] 경쟁률 3.7:1이 낮은 거야?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13630090&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13630090&amp;t=board"/>
-        <updated>2022-12-08T03:21:01.529Z</updated>
-        <content type="html"><![CDATA[부동산]]></content>
     </entry>
 </feed>

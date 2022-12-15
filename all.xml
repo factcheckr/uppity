@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 01:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 02:50:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022. 12. 15] 내년 전망은 흐림 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13677611&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13677611&amp;t=board</guid>
+            <pubDate>Thu, 15 Dec 2022 02:49:33 GMT</pubDate>
+            <content:encoded><![CDATA[생활경제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2022. 12. 15] 기후변화 ‘완전 해결’ 가능하다? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13677585&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13677585&amp;t=board</guid>
+            <pubDate>Thu, 15 Dec 2022 02:49:33 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[2022. 12. 14] 살짝 유해진 ‘관리종목’ (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13666858&amp;t=board</link>
@@ -62,20 +76,6 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13646985&amp;t=board</guid>
             <pubDate>Sun, 11 Dec 2022 02:51:13 GMT</pubDate>
             <content:encoded><![CDATA[글로벌]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 12. 08] ‘물류’ 하면 하림? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13630103&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13630103&amp;t=board</guid>
-            <pubDate>Thu, 08 Dec 2022 03:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[산업]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 12. 08] 경쟁률 3.7:1이 낮은 거야? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13630090&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13630090&amp;t=board</guid>
-            <pubDate>Thu, 08 Dec 2022 03:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[부동산]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
@@ -366,6 +366,13 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20220629/041eb09bd7e20.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[22.12.15] 기후변화 ‘완전 해결’ 가능해요? (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13677561&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13677561&amp;t=board</guid>
+            <pubDate>Thu, 15 Dec 2022 02:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[22.12.14] 주52시간에서 주69시간으로? (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13670077&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13670077&amp;t=board</guid>
@@ -440,13 +447,6 @@
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13570722&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13570722&amp;t=board</guid>
             <pubDate>Wed, 30 Nov 2022 03:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.11.29] 코리아 디스카운트? 한국인 특별 할인이야? (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13563073&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13563073&amp;t=board</guid>
-            <pubDate>Tue, 29 Nov 2022 03:29:16 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
