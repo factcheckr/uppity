@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 01:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 02:39:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022. 12. 19] 통신3사 vs 알뜰폰 사업자 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13714236&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13714236&amp;t=board</guid>
+            <pubDate>Tue, 20 Dec 2022 02:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2022. 12. 19] 중국, 한시름 놓았네 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13714217&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13714217&amp;t=board</guid>
+            <pubDate>Tue, 20 Dec 2022 02:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[2022. 12. 16] 국내 철강 기업이 긴장하는 EU (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13696959&amp;t=board</link>
@@ -62,20 +76,6 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13661021&amp;t=board</guid>
             <pubDate>Tue, 13 Dec 2022 03:26:18 GMT</pubDate>
             <content:encoded><![CDATA[산업]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 12. 12] 이번 주 가장 중요한 경제일정 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13650766&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13650766&amp;t=board</guid>
-            <pubDate>Mon, 12 Dec 2022 02:49:59 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 12. 12] 가격이 가장 많이 오른 점심메뉴는? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13650745&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13650745&amp;t=board</guid>
-            <pubDate>Mon, 12 Dec 2022 02:49:59 GMT</pubDate>
-            <content:encoded><![CDATA[생활경제]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
@@ -366,6 +366,13 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20220629/041eb09bd7e20.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[22.12.19] 통신3사 vs 알뜰폰 사업자 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13714164&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13714164&amp;t=board</guid>
+            <pubDate>Tue, 20 Dec 2022 02:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[22.12.16] 파월 의장: 밟아줘 빅스텝 빅스텝 (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13696935&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13696935&amp;t=board</guid>
@@ -439,13 +446,6 @@
             <title><![CDATA[[22.12.02] 3세대 가입자라면 꼭 읽어보세요! (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13592014&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13592014&amp;t=board</guid>
-            <pubDate>Fri, 02 Dec 2022 11:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.12.01] 경기침체: 시그널을 보내 (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13591972&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13591972&amp;t=board</guid>
             <pubDate>Fri, 02 Dec 2022 11:14:11 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
