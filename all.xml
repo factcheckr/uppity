@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 03:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 04:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13677585&amp;t=board</guid>
             <pubDate>Thu, 15 Dec 2022 02:49:33 GMT</pubDate>
             <content:encoded><![CDATA[글로벌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		파이어족에 다가가는 UI/UX 디자이너의 머니로그																			N (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13726297&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13726297&amp;t=board</guid>
+            <pubDate>Wed, 21 Dec 2022 04:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20221221/173ac8e4086d3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Wed, 16 Nov 2022 17:37:07 GMT</pubDate>
             <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20220706/ec435eabd9662.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											2,000만원 이하
-										
-																		대학생 때 놀기 vs. 저축 하기, 대학생의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12007763&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12007763&amp;t=board</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[2,000만원 이하]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220629/041eb09bd7e20.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[22.12.21] 퇴직연금 빼서 산 이것은? (어피티 ─ 머니레터)]]></title>
