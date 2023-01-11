@@ -4,9 +4,21 @@
         <title>어피티 ─ 머니로그</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 01:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 02:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		돈을 모으다가 가끔 회의감이 들어요 식품영업 5년 차 대리의 머니로그 																			N]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 02:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20210325/edbbce446d908.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[공지
 																			
@@ -282,18 +294,6 @@
             <pubDate>Wed, 16 Nov 2022 17:37:07 GMT</pubDate>
             <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20220727/9f20ebc1d193a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											3,000~4,000만원
-										
-																		부수입에 대해 고민하는  공공기관 재직자의 머니로그]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12365918&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12365918&amp;t=board</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220720/5b018a8b81678.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
