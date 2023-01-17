@@ -4,9 +4,21 @@
         <title>어피티 ─ 머니로그</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 06:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 07:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		제목																			N]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Tue, 17 Jan 2023 07:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20230117/9fb3b792ba602.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공지
 																			
@@ -17,7 +29,7 @@
             <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13897900&amp;t=board</guid>
             <pubDate>Wed, 11 Jan 2023 07:17:26 GMT</pubDate>
             <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20210325/edbbce446d908.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20230117/d4ed6258b96c1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -282,18 +294,6 @@
             <pubDate>Wed, 16 Nov 2022 17:37:07 GMT</pubDate>
             <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20220803/583632605d9a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											3,000~4,000만원
-										
-																		회사를 계속 다녀야 할지 고민이에요!  2년 차 사원의 머니로그]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12432300&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12432300&amp;t=board</guid>
-            <pubDate>Wed, 16 Nov 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220727/9f20ebc1d193a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
