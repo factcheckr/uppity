@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-01-17T05:17:08.393Z</updated>
+    <updated>2023-01-17T06:23:20.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2023. 01. 17] 깡통주택 보증금 한도를 ‘깡’]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13944779&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13944779&amp;t=board"/>
+        <updated>2023-01-17T06:22:46.521Z</updated>
+        <content type="html"><![CDATA[부동산]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2023. 01. 17] 20년 만에 손보는 해외 송금 제도]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13944763&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13944763&amp;t=board"/>
+        <updated>2023-01-17T06:22:46.524Z</updated>
+        <content type="html"><![CDATA[경제정책]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2023. 01. 16] 물가와 금리, 요새 근황은?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13935607&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13894137&amp;t=board"/>
         <updated>2023-01-11T02:43:14.361Z</updated>
         <content type="html"><![CDATA[생활경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023. 01. 10] 상장을 앞둔 두 기업은?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13879482&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13879482&amp;t=board"/>
-        <updated>2023-01-10T02:46:52.171Z</updated>
-        <content type="html"><![CDATA[증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023. 01. 10] 파생상품 손실이 심상치 않다?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13879473&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13879473&amp;t=board"/>
-        <updated>2023-01-10T02:46:52.171Z</updated>
-        <content type="html"><![CDATA[증권]]></content>
     </entry>
 </feed>
