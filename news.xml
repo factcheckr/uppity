@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-02-02T01:29:13.236Z</updated>
+    <updated>2023-02-02T02:46:55.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2023. 02. 02] 인적분할 후, 쏟아지는 관심]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14120607&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14120607&amp;t=board"/>
+        <updated>2023-02-02T02:46:19.805Z</updated>
+        <content type="html"><![CDATA[증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2023. 02. 02] 주택연금 가입자, 역대 최고였던 이유]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14120584&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14120584&amp;t=board"/>
+        <updated>2023-02-02T02:46:19.805Z</updated>
+        <content type="html"><![CDATA[부동산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2023. 02. 01] 어닝쇼크가 이어진다]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14111678&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14064632&amp;t=board"/>
         <updated>2023-01-29T02:47:37.486Z</updated>
         <content type="html"><![CDATA[글로벌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023. 01. 26] 리볼빙은 조심 또 조심]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14064501&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14064501&amp;t=board"/>
-        <updated>2023-01-29T01:38:03.107Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023. 01. 26] 기준금리 올랐는데, 이건 왜 내려가요?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14064499&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14064499&amp;t=board"/>
-        <updated>2023-01-29T01:38:03.112Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
     </entry>
 </feed>
