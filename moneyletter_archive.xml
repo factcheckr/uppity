@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/moneyletter_archive</id>
     <title>어피티 ─ 머니레터</title>
-    <updated>2023-02-19T08:22:54.176Z</updated>
+    <updated>2023-02-19T09:17:58.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[UPPITY]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[23.02.17] 악성 임대인, 신상 공개 가능?]]></title>
+        <title type="html"><![CDATA[[23.02.16] 악성 임대인, 신상 공개 가능?]]></title>
         <id>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14244851&amp;t=board</id>
         <link href="https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14244851&amp;t=board"/>
         <updated>2023-02-16T02:49:51.736Z</updated>
