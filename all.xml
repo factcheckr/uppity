@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 05:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 06:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2023. 03. 15] 212조 원의 순이익 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14482673&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14482673&amp;t=board</guid>
+            <pubDate>Wed, 15 Mar 2023 06:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[증권]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2023. 03. 15] 스마트폰 뱅크런, 우리나라는? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14482640&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14482640&amp;t=board</guid>
+            <pubDate>Wed, 15 Mar 2023 06:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[생활경제]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[2023. 03. 14] 물가 올라도 맥줏값은 놔둔다? (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14473682&amp;t=board</link>
@@ -64,18 +78,16 @@
             <content:encoded><![CDATA[생활경제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2023. 03. 08] 에스엠을 향한 열렬한 구애! (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14424392&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14424392&amp;t=board</guid>
-            <pubDate>Wed, 08 Mar 2023 08:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[증권]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023. 03. 08] 주 69시간 확정, 11시간 연속휴식은 삭제 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14424373&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14424373&amp;t=board</guid>
-            <pubDate>Wed, 08 Mar 2023 08:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[경제정책]]></content:encoded>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		모바일 가계부 100% 활용법이 궁금해요! 5년 차 마케터의 머니로그제목																			N (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14482437&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14482437&amp;t=board</guid>
+            <pubDate>Wed, 15 Mar 2023 06:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20230315/3137d4cb65694.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -354,16 +366,11 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20221005/5bf88b3f0801a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공지
-																			
-											4,000~5,000만원
-										
-																		부동산 데이터는 어디서 얻나요?  AI 개발 데이터 분석가의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12970622&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12970622&amp;t=board</guid>
-            <pubDate>Wed, 18 Jan 2023 19:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220928/f10cd6c12d4b4.png" length="0" type="image/png"/>
+            <title><![CDATA[[23.03.15] 이번 주 신조어: 스마트폰 뱅크런 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14482545&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14482545&amp;t=board</guid>
+            <pubDate>Wed, 15 Mar 2023 06:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[23.03.14] <더 글로리> 특집 🔥 동은이는 복수 자금을 어떻게 모았을까? (어피티 ─ 머니레터)]]></title>
@@ -440,13 +447,6 @@
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14344006&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14344006&amp;t=board</guid>
             <pubDate>Mon, 27 Feb 2023 09:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.02.24] SM 인수전, 지금 1대 주주는? (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14332730&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14332730&amp;t=board</guid>
-            <pubDate>Sun, 26 Feb 2023 02:59:06 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
