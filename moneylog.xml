@@ -4,15 +4,27 @@
         <title>어피티 ─ 머니로그</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 06:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 07:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[공지
 																			
+											2,000만원 이하
+										
+																		씀씀이를 줄이고 투자 원칙을 세우고 싶은 대학생의 머니로그																			N]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14545817&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14545817&amp;t=board</guid>
+            <pubDate>Wed, 22 Mar 2023 07:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[2,000만원 이하]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20230322/5e743af0481b6.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
 											5,000만원 이상
 										
-																		모바일 가계부 100% 활용법이 궁금해요! 5년 차 마케터의 머니로그제목]]></title>
+																		모바일 가계부 100% 활용법이 궁금해요! 5년 차 마케터의 머니로그]]></title>
             <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14482437&amp;t=board</link>
             <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14482437&amp;t=board</guid>
             <pubDate>Wed, 15 Mar 2023 06:23:11 GMT</pubDate>
@@ -282,18 +294,6 @@
             <pubDate>Wed, 18 Jan 2023 19:15:20 GMT</pubDate>
             <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20221013/0a4ac3419df98.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											5,000만원 이상
-										
-																		커리어 고민이 있는 N잡러, 5개월 차 약사의 머니로그]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13018750&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13018750&amp;t=board</guid>
-            <pubDate>Wed, 18 Jan 2023 19:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20221005/5bf88b3f0801a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
