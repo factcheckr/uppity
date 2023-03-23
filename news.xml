@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-03-23T05:16:20.665Z</updated>
+    <updated>2023-03-23T06:22:11.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2023. 03. 23] 간만에 날개 단 테슬라]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14554375&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14554375&amp;t=board"/>
+        <updated>2023-03-23T06:21:35.431Z</updated>
+        <content type="html"><![CDATA[증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2023. 03. 23] 중동의 중재자는 중국?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14554329&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14554329&amp;t=board"/>
+        <updated>2023-03-23T06:21:35.432Z</updated>
+        <content type="html"><![CDATA[글로벌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2023. 03. 22] 전 세계가 주목하는 로봇산업]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14542365&amp;t=board</id>
@@ -59,20 +73,6 @@
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14516079&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14516079&amp;t=board"/>
         <updated>2023-03-19T02:48:13.443Z</updated>
-        <content type="html"><![CDATA[글로벌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023. 03. 16] 제로&토닉 전성시대]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14490323&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14490323&amp;t=board"/>
-        <updated>2023-03-16T01:26:50.040Z</updated>
-        <content type="html"><![CDATA[산업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023. 03. 16] 미국, 근본적으로 높은 결과?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14490027&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14490027&amp;t=board"/>
-        <updated>2023-03-16T01:26:50.044Z</updated>
         <content type="html"><![CDATA[글로벌]]></content>
     </entry>
 </feed>
