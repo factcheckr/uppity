@@ -4,9 +4,21 @@
         <title>어피티 ─ 머니로그</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 06:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 07:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		경매나 청약으로 독립을 꿈꾸는 6년 차 마케터의 머니로그																			N]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14753157&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14753157&amp;t=board</guid>
+            <pubDate>Wed, 12 Apr 2023 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20230412/7e0b7d38aa014.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공지
 																			
@@ -282,18 +294,6 @@
             <pubDate>Sun, 02 Apr 2023 19:12:55 GMT</pubDate>
             <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20221102/515495059a1fb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											4,000~5,000만원
-										
-																		재테크 우선순위를 세우고 싶은  R&D 부서 차장의 머니로그]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13268819&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13268819&amp;t=board</guid>
-            <pubDate>Sun, 02 Apr 2023 19:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20221026/963fd65546df9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
