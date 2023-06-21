@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-06-21T01:28:38.529Z</updated>
+    <updated>2023-06-21T02:40:49.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2023. 06. 21] 만기 앞둔 전세가 300조 원 규모?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15487296&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15487296&amp;t=board"/>
+        <updated>2023-06-21T02:40:04.642Z</updated>
+        <content type="html"><![CDATA[부동산]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2023. 06. 21] 2024년 최저임금, 본격적인 논의 시작!]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15487258&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15487258&amp;t=board"/>
+        <updated>2023-06-21T02:40:04.661Z</updated>
+        <content type="html"><![CDATA[경제정책]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2023. 06. 20] 라면과 소주의 공통점은?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15478248&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15438285&amp;t=board"/>
         <updated>2023-06-15T02:40:53.323Z</updated>
         <content type="html"><![CDATA[생활경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023. 06. 14] 비디오 킬 더 라디오스타]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15426844&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15426844&amp;t=board"/>
-        <updated>2023-06-14T02:43:04.212Z</updated>
-        <content type="html"><![CDATA[산업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023. 06. 14] 역전세 위험가구가 52.4%]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15426823&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15426823&amp;t=board"/>
-        <updated>2023-06-14T01:36:40.764Z</updated>
-        <content type="html"><![CDATA[부동산]]></content>
     </entry>
 </feed>
