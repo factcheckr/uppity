@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-07-27T01:15:39.757Z</updated>
+    <updated>2023-07-27T02:28:32.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2023. 07. 27] 모빌리티 업계의 합종연횡]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15879658&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15879658&amp;t=board"/>
+        <updated>2023-07-27T02:27:52.923Z</updated>
+        <content type="html"><![CDATA[산업]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2023. 07. 27] 오후 1시 주가가 급락했다]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15879638&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15879638&amp;t=board"/>
+        <updated>2023-07-27T02:27:52.923Z</updated>
+        <content type="html"><![CDATA[증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2023. 07. 26] 오늘 상장하는 XR 기업은?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15865552&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15802611&amp;t=board"/>
         <updated>2023-07-21T02:35:57.396Z</updated>
         <content type="html"><![CDATA[생활경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023. 07. 20] 여름철, 이 소재가 뜬다]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15785800&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15785800&amp;t=board"/>
-        <updated>2023-07-20T02:34:39.777Z</updated>
-        <content type="html"><![CDATA[산업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023. 07. 20] 내년 최저임금은 9,860원]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15785790&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15785790&amp;t=board"/>
-        <updated>2023-07-20T02:34:39.778Z</updated>
-        <content type="html"><![CDATA[경제정책]]></content>
     </entry>
 </feed>
