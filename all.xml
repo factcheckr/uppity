@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 05:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 06:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16123605&amp;t=board</guid>
             <pubDate>Thu, 24 Aug 2023 05:14:45 GMT</pubDate>
             <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											2,000만원 이하
+										
+																		돈에 집착하고 싶지 않아! 22세 대학생의 머니로그																			N (어피티 ─ 머니로그)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 30 Aug 2023 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2,000만원 이하]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20230830/02b4654dd844f.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Sun, 02 Apr 2023 19:12:55 GMT</pubDate>
             <content:encoded><![CDATA[2,000만원 이하]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230322/5e743af0481b6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											5,000만원 이상
-										
-																		모바일 가계부 100% 활용법이 궁금해요! 5년 차 마케터의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14482437&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14482437&amp;t=board</guid>
-            <pubDate>Sun, 02 Apr 2023 19:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20230315/3137d4cb65694.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[23.08.30] 파월: 이번 금리는~ 바로오~~ (어피티 ─ 머니레터)]]></title>
