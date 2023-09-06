@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 06:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 07:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16193075&amp;t=board</guid>
             <pubDate>Thu, 31 Aug 2023 04:18:57 GMT</pubDate>
             <content:encoded><![CDATA[글로벌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											3,000~4,000만원
+										
+																		노는 돈, 어떻게 관리하지? 제약회사 신입사원의 머니로그																			N (어피티 ─ 머니로그)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 06 Sep 2023 07:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20230906/520fadaf32913.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Sun, 02 Apr 2023 19:12:55 GMT</pubDate>
             <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230329/26336ff0502e1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											2,000만원 이하
-										
-																		씀씀이를 줄이고 투자 원칙을 세우고 싶은 대학생의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14545817&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14545817&amp;t=board</guid>
-            <pubDate>Sun, 02 Apr 2023 19:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[2,000만원 이하]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20230322/5e743af0481b6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[23.09.06] 물가, 왜 또 오른 거래? (이마짚) (어피티 ─ 머니레터)]]></title>
