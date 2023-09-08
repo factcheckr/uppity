@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-09-08T01:08:07.527Z</updated>
+    <updated>2023-09-08T02:21:49.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[23.09.08] 유가 급등에 긴장하는 이유]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16281103&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16281103&amp;t=board"/>
+        <updated>2023-09-08T02:21:10.228Z</updated>
+        <content type="html"><![CDATA[글로벌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[23.09.08] 환율 변동은 경제에 부담스러워]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16281079&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16281079&amp;t=board"/>
+        <updated>2023-09-08T02:21:10.229Z</updated>
+        <content type="html"><![CDATA[금융]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[23.09.07] 사무라이 본드가 대체 뭐길래?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16271613&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16224163&amp;t=board"/>
         <updated>2023-09-03T23:15:24.790Z</updated>
         <content type="html"><![CDATA[경제일반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.09.01] 한국 경제 성적표는 또 왜 이래?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16201721&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16201721&amp;t=board"/>
-        <updated>2023-09-01T01:11:53.838Z</updated>
-        <content type="html"><![CDATA[경제일반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.09.01] 나빠졌다니, 오히려 좋아?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16201712&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16201712&amp;t=board"/>
-        <updated>2023-09-01T01:11:53.848Z</updated>
-        <content type="html"><![CDATA[글로벌]]></content>
     </entry>
 </feed>
