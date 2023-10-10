@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-10-09T23:16:37.839Z</updated>
+    <updated>2023-10-10T01:08:35.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
         <title type="html"><![CDATA[[23.10.10] 지갑이 ‘더’ 가벼워진 이유]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-10-09T14:16:07.317Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16547398&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16547398&amp;t=board"/>
+        <updated>2023-10-10T01:07:54.902Z</updated>
         <content type="html"><![CDATA[생활경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[23.10.10] 고환율, 무슨 일이야?]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-10-09T14:16:07.317Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16547369&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16547369&amp;t=board"/>
+        <updated>2023-10-10T01:07:54.907Z</updated>
         <content type="html"><![CDATA[글로벌]]></content>
     </entry>
     <entry>
