@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-10-16T13:21:52.161Z</updated>
+    <updated>2023-10-16T14:17:06.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[공기업인 듯 공기업 아닌 상장하는 너~]]></title>
         <id>javascript:;</id>
         <link href="javascript:;"/>
-        <updated>2023-10-16T13:21:09.578Z</updated>
+        <updated>2023-10-16T13:21:09.575Z</updated>
         <content type="html"><![CDATA[금융]]></content>
     </entry>
     <entry>
