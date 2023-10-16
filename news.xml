@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-10-16T03:18:12.322Z</updated>
+    <updated>2023-10-16T04:20:22.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
         <title type="html"><![CDATA[[23.10.16] 가짜뉴스와의 전쟁]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-10-15T12:28:44.746Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16603782&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16603782&amp;t=board"/>
+        <updated>2023-10-16T04:19:46.561Z</updated>
         <content type="html"><![CDATA[산업]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[23.10.16] 중동 리스크에 코스피 하락하는 이유]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-10-15T12:28:44.746Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16603759&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16603759&amp;t=board"/>
+        <updated>2023-10-16T04:19:46.563Z</updated>
         <content type="html"><![CDATA[글로벌]]></content>
     </entry>
     <entry>
