@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 21:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 22:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16569724&amp;t=board</guid>
             <pubDate>Thu, 12 Oct 2023 01:06:32 GMT</pubDate>
             <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		전세로 한 번 더 살아, 말아? 제조업 연구원의 머니로그																			N (어피티 ─ 머니로그)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Tue, 17 Oct 2023 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20230830/02b4654dd844f.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Wed, 13 Sep 2023 16:22:11 GMT</pubDate>
             <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230425/07950de7915cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											2,000만원 이하
-										
-																		학자금 대출 상환이 고민인 대학생의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14923429&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14923429&amp;t=board</guid>
-            <pubDate>Wed, 13 Sep 2023 16:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[2,000만원 이하]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20230419/a3bf342902119.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[23.10.17] 💰인공눈물이 10배나 비싸진다고?! (어피티 ─ 머니레터)]]></title>
