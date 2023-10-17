@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 22:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 23:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,7 +87,7 @@
             <guid>javascript:;</guid>
             <pubDate>Tue, 17 Oct 2023 11:13:45 GMT</pubDate>
             <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20230830/02b4654dd844f.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231018/fbaed3d88203c.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
