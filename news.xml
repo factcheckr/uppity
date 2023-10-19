@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-10-19T13:20:50.872Z</updated>
+    <updated>2023-10-19T14:15:59.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[감정노동자 보호법 5년, 현장은?]]></title>
+        <id>javascript:;</id>
+        <link href="javascript:;"/>
+        <updated>2023-10-19T14:15:20.663Z</updated>
+        <content type="html"><![CDATA[경제일반]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기준금리, 또 동결!]]></title>
+        <id>javascript:;</id>
+        <link href="javascript:;"/>
+        <updated>2023-10-19T14:15:20.665Z</updated>
+        <content type="html"><![CDATA[경제정책]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[23.10.19] 쓰디쓴 설탕 뉴스]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16638035&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16603759&amp;t=board"/>
         <updated>2023-10-16T04:19:46.563Z</updated>
         <content type="html"><![CDATA[글로벌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.10.13] 어도비-피그마 결합은 현재진행형]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16580901&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16580901&amp;t=board"/>
-        <updated>2023-10-13T02:26:22.173Z</updated>
-        <content type="html"><![CDATA[산업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.10.13] 금리가 갑자기 왜 이래?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16580889&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16580889&amp;t=board"/>
-        <updated>2023-10-13T02:26:22.175Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
     </entry>
 </feed>
