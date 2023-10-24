@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-10-24T12:31:10.075Z</updated>
+    <updated>2023-10-24T13:23:20.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[[23.10.25] 실손보험 청구 간소화 내년 10월부터 시작!]]></title>
         <id>javascript:;</id>
         <link href="javascript:;"/>
-        <updated>2023-10-24T12:30:31.504Z</updated>
+        <updated>2023-10-24T12:30:31.502Z</updated>
         <content type="html"><![CDATA[경제일반]]></content>
     </entry>
     <entry>
