@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 23:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 01:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16638011&amp;t=board</guid>
             <pubDate>Fri, 20 Oct 2023 21:13:31 GMT</pubDate>
             <content:encoded><![CDATA[금융]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											2,000~3,000만원
+										
+																		석사 과정 스타트! 공대 대학원생의 일주일 머니로그																			N (어피티 ─ 머니로그)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Tue, 24 Oct 2023 12:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231018/fbaed3d88203c.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Fri, 20 Oct 2023 21:13:49 GMT</pubDate>
             <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230503/012a28e3a0b43.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											3,000~4,000만원
-										
-																		내 집 마련을 목표로 목돈을 모으는 회계팀 5년 차의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14982842&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14982842&amp;t=board</guid>
-            <pubDate>Fri, 20 Oct 2023 21:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20230425/07950de7915cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[23.10.24]💰연필 제외! 흑연이 없으면 못 만드는 것은? (어피티 ─ 머니레터)]]></title>
