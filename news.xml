@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-10-25T12:31:47.085Z</updated>
+    <updated>2023-10-25T13:20:33.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[[23.10.26] 엔비디아가 인텔을 잡으면?]]></title>
         <id>javascript:;</id>
         <link href="javascript:;"/>
-        <updated>2023-10-25T12:31:03.892Z</updated>
+        <updated>2023-10-25T12:31:03.890Z</updated>
         <content type="html"><![CDATA[산업]]></content>
     </entry>
     <entry>
