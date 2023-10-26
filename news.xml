@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-10-26T01:07:32.255Z</updated>
+    <updated>2023-10-26T02:22:27.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
         <title type="html"><![CDATA[[23.10.26] 클라우드 사업이 실적을 가른다]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-10-25T12:31:03.890Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16697798&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16697798&amp;t=board"/>
+        <updated>2023-10-26T02:21:41.656Z</updated>
         <content type="html"><![CDATA[산업]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[23.10.26] 엔비디아가 인텔을 잡으면?]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-10-25T12:31:03.890Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16697710&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16697710&amp;t=board"/>
+        <updated>2023-10-26T02:21:41.665Z</updated>
         <content type="html"><![CDATA[산업]]></content>
     </entry>
     <entry>
