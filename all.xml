@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 13:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 14:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상저하고, 쉽지 않고 (어피티 ─ 뉴스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 26 Oct 2023 14:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[경제일반]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[23.10.27] 코앞으로 다가온 로보택시 시대 (어피티 ─ 뉴스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 26 Oct 2023 14:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[생활경제]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[23.10.26] 클라우드 사업이 실적을 가른다 (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16697798&amp;t=board</link>
@@ -62,20 +76,6 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16667238&amp;t=board</guid>
             <pubDate>Mon, 23 Oct 2023 08:20:59 GMT</pubDate>
             <content:encoded><![CDATA[금융]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.10.20] 감정노동자 보호법 5년, 현장은? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16646559&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16646559&amp;t=board</guid>
-            <pubDate>Fri, 20 Oct 2023 21:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[경제일반]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.10.20] 기준금리, 또 동결! (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16646524&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16646524&amp;t=board</guid>
-            <pubDate>Fri, 20 Oct 2023 21:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[경제정책]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
