@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-10-30T02:24:34.141Z</updated>
+    <updated>2023-10-30T03:17:53.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
         <title type="html"><![CDATA[[23.10.30] LG생건 폭락의 이유]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-10-29T13:17:26.288Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16726374&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16726374&amp;t=board"/>
+        <updated>2023-10-30T03:17:10.945Z</updated>
         <content type="html"><![CDATA[증권]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[23.10.30] AI 위에 클라우드 있다]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-10-29T13:17:26.288Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16726346&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16726346&amp;t=board"/>
+        <updated>2023-10-30T03:17:10.947Z</updated>
         <content type="html"><![CDATA[산업]]></content>
     </entry>
     <entry>
