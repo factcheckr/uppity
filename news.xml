@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-10-30T23:16:14.606Z</updated>
+    <updated>2023-10-31T01:09:48.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
         <title type="html"><![CDATA[[23.10.31] 호텔신라 실적 뒷이야기]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-10-30T13:20:49.003Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16735000&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16735000&amp;t=board"/>
+        <updated>2023-10-31T01:09:11.734Z</updated>
         <content type="html"><![CDATA[증권]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[23.10.31] 3분기_글로벌_GDP_총정리.zip]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-10-30T13:20:49.003Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16734979&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16734979&amp;t=board"/>
+        <updated>2023-10-31T01:09:11.743Z</updated>
         <content type="html"><![CDATA[경제일반]]></content>
     </entry>
     <entry>
