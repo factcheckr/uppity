@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-11-01T15:19:23.618Z</updated>
+    <updated>2023-11-01T16:21:41.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[[23.11.02] 경기도 시군들, 어떻게 될 것인가]]></title>
         <id>javascript:;</id>
         <link href="javascript:;"/>
-        <updated>2023-11-01T15:18:45.598Z</updated>
+        <updated>2023-11-01T15:18:45.592Z</updated>
         <content type="html"><![CDATA[경제정책]]></content>
     </entry>
     <entry>
