@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 14:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 15:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[23.11.03] 신생아 특례대출이 뭐길래? (어피티 ─ 뉴스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Nov 2023 15:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[경제정책]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[23.11.03] 안전한 작업장, 더 중요해지는 이유 (어피티 ─ 뉴스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Nov 2023 15:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[경제일반]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[23.11.02] 유료 구독, 메타 너마저? (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16755482&amp;t=board</link>
@@ -64,25 +78,11 @@
             <content:encoded><![CDATA[산업]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[23.10.27] 상저하고, 쉽지 않고 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16708106&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16708106&amp;t=board</guid>
-            <pubDate>Fri, 27 Oct 2023 03:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[경제일반]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.10.27] 코앞으로 다가온 로보택시 시대 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16708098&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16708098&amp;t=board</guid>
-            <pubDate>Fri, 27 Oct 2023 03:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[생활경제]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[공지
 																			
 											4,000~5,000만원
 										
-																		지출 구조, 어떻게 개선하지? 8년 차 선임연구원의 머니로그																			N (어피티 ─ 머니로그)]]></title>
+																		지출 구조, 어떻게 개선하지? 8년 차 선임연구원의 머니로그 (어피티 ─ 머니로그)]]></title>
             <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16750073&amp;t=board</link>
             <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16750073&amp;t=board</guid>
             <pubDate>Thu, 02 Nov 2023 02:23:03 GMT</pubDate>
