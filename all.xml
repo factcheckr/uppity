@@ -4,21 +4,35 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 12:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 13:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[23.11.07] 꾹 닫힌 지갑 vs. 연중 최대 쇼핑 행사 (어피티 ─ 뉴스)]]></title>
+            <title><![CDATA[[23.11.08] 맘스터치의 아시아 터치 (어피티 ─ 뉴스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 06 Nov 2023 15:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[23.11.08] 금리 오르는 겨 마는 겨? (어피티 ─ 뉴스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 06 Nov 2023 15:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[금융]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[23.11.07] 꾹 닫힌 지갑 vs. 연중 최대 쇼핑 행사 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16801507&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16801507&amp;t=board</guid>
+            <pubDate>Tue, 07 Nov 2023 13:19:21 GMT</pubDate>
             <content:encoded><![CDATA[경제일반]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[23.11.07] 공매도 금지, 무슨 의미냐면요 (어피티 ─ 뉴스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 06 Nov 2023 15:18:10 GMT</pubDate>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16801500&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16801500&amp;t=board</guid>
+            <pubDate>Tue, 07 Nov 2023 13:19:21 GMT</pubDate>
             <content:encoded><![CDATA[금융]]></content:encoded>
         </item>
         <item>
@@ -62,20 +76,6 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16755460&amp;t=board</guid>
             <pubDate>Thu, 02 Nov 2023 09:15:24 GMT</pubDate>
             <content:encoded><![CDATA[경제정책]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.11.01] 이차전지, 요즘은 어때? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16744961&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16744961&amp;t=board</guid>
-            <pubDate>Wed, 01 Nov 2023 02:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[증권]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.11.01] 올리브영의 가장 큰 경쟁자는? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16744945&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16744945&amp;t=board</guid>
-            <pubDate>Wed, 01 Nov 2023 02:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[산업]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
