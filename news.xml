@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-11-08T10:17:30.328Z</updated>
+    <updated>2023-11-08T11:13:46.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[[23.11.09] GPT 새 모델, 최신인데 최저가?]]></title>
         <id>javascript:;</id>
         <link href="javascript:;"/>
-        <updated>2023-11-08T10:16:57.824Z</updated>
+        <updated>2023-11-08T10:16:57.821Z</updated>
         <content type="html"><![CDATA[산업]]></content>
     </entry>
     <entry>
