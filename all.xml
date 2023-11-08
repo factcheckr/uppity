@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 03:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 04:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16755460&amp;t=board</guid>
             <pubDate>Thu, 02 Nov 2023 09:15:24 GMT</pubDate>
             <content:encoded><![CDATA[경제정책]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		높은 연봉, 커지는 지출? 금융권 3년 차 대리의 머니로그																			N (어피티 ─ 머니로그)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 08 Nov 2023 04:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231108/d8323d9f7cf3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Fri, 20 Oct 2023 21:13:49 GMT</pubDate>
             <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230517/3009b90f0441a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											3,000~4,000만원
-										
-																		부동산 투자를 고민하는 신혼부부의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15110403&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15110403&amp;t=board</guid>
-            <pubDate>Fri, 20 Oct 2023 21:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20230510/57ae67a56e43b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[23.11.08] 💰인도 기업 역사 5분 만에 읽기 (어피티 ─ 머니레터)]]></title>
