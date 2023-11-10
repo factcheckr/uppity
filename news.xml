@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-11-10T01:10:38.624Z</updated>
+    <updated>2023-11-10T02:25:48.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
         <title type="html"><![CDATA[[23.11.10] 감시 벗어났지만 씁쓸한 이유]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-11-09T14:17:00.815Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16839608&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16839608&amp;t=board"/>
+        <updated>2023-11-10T02:25:02.399Z</updated>
         <content type="html"><![CDATA[금융]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[23.11.10] 중국 경제 볼 땐 ‘커창지수’]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-11-09T14:17:00.815Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16839590&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16839590&amp;t=board"/>
+        <updated>2023-11-10T02:25:02.408Z</updated>
         <content type="html"><![CDATA[글로벌]]></content>
     </entry>
     <entry>
