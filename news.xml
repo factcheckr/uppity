@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-11-13T01:12:26.915Z</updated>
+    <updated>2023-11-13T02:27:18.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
         <title type="html"><![CDATA[[23.11.13] 쉬운 결제, 쉬운 연체]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-11-12T14:24:12.698Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16861751&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16861751&amp;t=board"/>
+        <updated>2023-11-13T02:26:46.603Z</updated>
         <content type="html"><![CDATA[생활경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[23.11.13] 노란봉투법, 대체 뭔데?]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-11-12T14:24:12.698Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16861730&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16861730&amp;t=board"/>
+        <updated>2023-11-13T02:26:46.604Z</updated>
         <content type="html"><![CDATA[경제정책]]></content>
     </entry>
     <entry>
