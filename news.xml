@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-11-14T23:16:44.327Z</updated>
+    <updated>2023-11-15T01:11:38.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
         <title type="html"><![CDATA[[23.11.15] 10년 뒤, 우리 대학은?]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-11-14T12:30:34.715Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16882020&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16882020&amp;t=board"/>
+        <updated>2023-11-15T01:11:10.797Z</updated>
         <content type="html"><![CDATA[경제일반]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[23.11.15] 일부 업종, 아마도 ‘주 60시간제’]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2023-11-14T12:30:34.715Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16882005&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16882005&amp;t=board"/>
+        <updated>2023-11-15T01:11:10.798Z</updated>
         <content type="html"><![CDATA[경제정책]]></content>
     </entry>
     <entry>
