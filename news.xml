@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-12-12T03:18:06.794Z</updated>
+    <updated>2023-12-12T04:20:52.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[23.12.12] 한국은 기후 악당?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237835&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237835&amp;t=board"/>
+        <updated>2023-12-12T04:20:23.790Z</updated>
+        <content type="html"><![CDATA[글로벌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[23.12.12] NFT는 가상자산이 아닙니다]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237804&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237804&amp;t=board"/>
+        <updated>2023-12-12T04:20:23.791Z</updated>
+        <content type="html"><![CDATA[금융]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[23.12.11] 교육을 통해 지역을 살린다?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237789&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237789&amp;t=board"/>
+        <updated>2023-12-12T04:20:23.792Z</updated>
+        <content type="html"><![CDATA[경제정책]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[23.12.11] 역사와 전통의 원유 치킨게임]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237504&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237504&amp;t=board"/>
+        <updated>2023-12-12T04:20:23.793Z</updated>
+        <content type="html"><![CDATA[글로벌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[23.12.08] 우등생 클럽에 우버의 등장]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17188303&amp;t=board</id>
@@ -46,33 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17155254&amp;t=board"/>
         <updated>2023-12-06T03:17:15.037Z</updated>
         <content type="html"><![CDATA[경제일반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.12.05] 해외주식 증권사 차트인 성공한 곳은?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17141597&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17141597&amp;t=board"/>
-        <updated>2023-12-05T05:15:40.786Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.12.05] OECD 평균만 돼도 인구소멸 막는다?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17141559&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17141559&amp;t=board"/>
-        <updated>2023-12-05T05:15:40.788Z</updated>
-        <content type="html"><![CDATA[경제일반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.12.04] 전 세계가 주목하는 펫보험]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17141501&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17141501&amp;t=board"/>
-        <updated>2023-12-05T05:15:40.788Z</updated>
-        <content type="html"><![CDATA[산업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.12.04] 부동산 2차 하락기를 점친다?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17141462&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17141462&amp;t=board"/>
-        <updated>2023-12-05T04:20:38.240Z</updated>
-        <content type="html"><![CDATA[부동산]]></content>
     </entry>
 </feed>
