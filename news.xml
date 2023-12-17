@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-12-17T14:14:47.154Z</updated>
+    <updated>2023-12-17T15:16:02.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[23.12.18] 인구 구조, 기대와 현실의 갭]]></title>
+        <id>javascript:;</id>
+        <link href="javascript:;"/>
+        <updated>2023-12-17T15:15:30.247Z</updated>
+        <content type="html"><![CDATA[경제일반]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[23.12.18] 개인정보의 유효기간이 폐지되었습니다]]></title>
+        <id>javascript:;</id>
+        <link href="javascript:;"/>
+        <updated>2023-12-17T15:15:30.250Z</updated>
+        <content type="html"><![CDATA[경제정책]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[23.12.15] 모두가 주목하는 ‘내년 금리’]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17275240&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237804&amp;t=board"/>
         <updated>2023-12-12T04:20:23.791Z</updated>
         <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.12.11] 교육을 통해 지역을 살린다?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237789&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237789&amp;t=board"/>
-        <updated>2023-12-12T04:20:23.792Z</updated>
-        <content type="html"><![CDATA[경제정책]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.12.11] 역사와 전통의 원유 치킨게임]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237504&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237504&amp;t=board"/>
-        <updated>2023-12-12T04:20:23.793Z</updated>
-        <content type="html"><![CDATA[글로벌]]></content>
     </entry>
 </feed>
