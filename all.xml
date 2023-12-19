@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 03:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 04:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[23.12.19] 네 번째 이통사, 가능할까요? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309270&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309270&amp;t=board</guid>
+            <pubDate>Tue, 19 Dec 2023 04:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[23.12.19] 주택담보대출, 요즘 금리는 어때? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309248&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309248&amp;t=board</guid>
+            <pubDate>Tue, 19 Dec 2023 04:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[금융]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[23.12.18] 인구 구조, 기대와 현실의 갭 (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17295306&amp;t=board</link>
@@ -62,20 +76,6 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17250688&amp;t=board</guid>
             <pubDate>Mon, 18 Dec 2023 20:16:38 GMT</pubDate>
             <content:encoded><![CDATA[산업]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.12.12] 한국은 기후 악당? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237835&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237835&amp;t=board</guid>
-            <pubDate>Mon, 18 Dec 2023 20:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.12.12] NFT는 가상자산이 아닙니다 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237804&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237804&amp;t=board</guid>
-            <pubDate>Mon, 18 Dec 2023 20:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[금융]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
@@ -366,6 +366,13 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20230621/890ff8bdfbbdb.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[23.12.19] 💰독자님에게 번아웃이 찾아온다면 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309325&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309325&amp;t=board</guid>
+            <pubDate>Tue, 19 Dec 2023 04:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[23.12.18] 💰중도퇴사자 연말정산은 어떻게 해요? (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17297732&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17297732&amp;t=board</guid>
@@ -439,13 +446,6 @@
             <title><![CDATA[[23.12.04] 💰해외에서 일하면 세금은 어디에 낼까? (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17141747&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17141747&amp;t=board</guid>
-            <pubDate>Mon, 18 Dec 2023 20:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.12.01] 💰OOOO 때문에 겨울에 수영복 삼 (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17087652&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17087652&amp;t=board</guid>
             <pubDate>Mon, 18 Dec 2023 20:16:58 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
