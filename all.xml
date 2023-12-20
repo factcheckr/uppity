@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 03:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 04:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17263355&amp;t=board</guid>
             <pubDate>Mon, 18 Dec 2023 20:16:38 GMT</pubDate>
             <content:encoded><![CDATA[생활경제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		씀씀이가 커서 고민이에요! 사무관리 3년 차 사원의 머니로그																			N (어피티 ─ 머니로그)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 20 Dec 2023 04:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231220/2ea80bbb0eb07.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Mon, 18 Dec 2023 20:16:52 GMT</pubDate>
             <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230627/85dcbb5ba12ae.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											2,000만원 이하
-										
-																		너무 많은 계좌, 어떻게 하지? 현역 군인의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15487420&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15487420&amp;t=board</guid>
-            <pubDate>Mon, 18 Dec 2023 20:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[2,000만원 이하]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20230621/890ff8bdfbbdb.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[23.12.19] 💰독자님에게 번아웃이 찾아온다면 (어피티 ─ 머니레터)]]></title>
