@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2023-12-21T02:28:04.047Z</updated>
+    <updated>2023-12-21T03:17:24.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[23.12.21] 청약통장, 또 뭐가 바뀔까?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17331280&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17331280&amp;t=board"/>
+        <updated>2023-12-21T03:16:56.609Z</updated>
+        <content type="html"><![CDATA[경제정책]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[23.12.21] 쿠팡은 백화점의 꿈을 꾸는가?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17331229&amp;t=board</id>
@@ -67,12 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17275212&amp;t=board"/>
         <updated>2023-12-15T05:16:26.693Z</updated>
         <content type="html"><![CDATA[경제일반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.12.14] 이제는 알아야 해요 ‘대환대출 인프라’]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17263389&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17263389&amp;t=board"/>
-        <updated>2023-12-14T04:20:10.289Z</updated>
-        <content type="html"><![CDATA[경제정책]]></content>
     </entry>
 </feed>
