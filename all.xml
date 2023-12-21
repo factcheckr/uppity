@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 01:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 02:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[23.12.21] 쿠팡은 백화점의 꿈을 꾸는가? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17331229&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17331229&amp;t=board</guid>
+            <pubDate>Thu, 21 Dec 2023 02:27:34 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[23.12.20] 도시바의 몰락 (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17321211&amp;t=board</link>
@@ -69,13 +76,6 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17263389&amp;t=board</guid>
             <pubDate>Mon, 18 Dec 2023 20:16:38 GMT</pubDate>
             <content:encoded><![CDATA[경제정책]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.12.14] 개미: 채권 투자 시작한다 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17263355&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17263355&amp;t=board</guid>
-            <pubDate>Mon, 18 Dec 2023 20:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[생활경제]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
@@ -366,6 +366,13 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20230627/85dcbb5ba12ae.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[23.12.21] 💰쿠팡: 나는 백화점이 될 거야 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17331167&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17331167&amp;t=board</guid>
+            <pubDate>Thu, 21 Dec 2023 02:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[23.12.20] 💰도시바, 이제 안녕.. (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17324608&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17324608&amp;t=board</guid>
@@ -439,13 +446,6 @@
             <title><![CDATA[[23.12.06] 💰겨울 과일이 비싸진 이유 (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17158398&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17158398&amp;t=board</guid>
-            <pubDate>Mon, 18 Dec 2023 20:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.12.05] 💰어피티 홍보왕 선발대회 (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17141779&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17141779&amp;t=board</guid>
             <pubDate>Mon, 18 Dec 2023 20:16:58 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
