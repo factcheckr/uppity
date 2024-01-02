@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2024-01-02T01:10:08.286Z</updated>
+    <updated>2024-01-02T02:29:10.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
-        <title type="html"><![CDATA[PF, 올해의 가장 큰 위협]]></title>
+        <title type="html"><![CDATA[[24.01.02] 청년희망적금, 만기가 코앞이에요]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437193&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437193&amp;t=board"/>
+        <updated>2024-01-02T02:28:38.080Z</updated>
+        <content type="html"><![CDATA[경제정책]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.01.02] PF, 올해의 가장 큰 위협]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437163&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437163&amp;t=board"/>
         <updated>2024-01-02T01:09:38.795Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309248&amp;t=board"/>
         <updated>2024-01-01T21:14:15.651Z</updated>
         <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.12.18] 인구 구조, 기대와 현실의 갭]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17295306&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17295306&amp;t=board"/>
-        <updated>2024-01-01T21:14:15.652Z</updated>
-        <content type="html"><![CDATA[경제일반]]></content>
     </entry>
 </feed>

@@ -4,11 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 01:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 02:29:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[PF, 올해의 가장 큰 위협 (어피티 ─ 뉴스)]]></title>
+            <title><![CDATA[[24.01.02] 청년희망적금, 만기가 코앞이에요 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437193&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437193&amp;t=board</guid>
+            <pubDate>Tue, 02 Jan 2024 02:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[경제정책]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.01.02] PF, 올해의 가장 큰 위협 (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437163&amp;t=board</link>
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437163&amp;t=board</guid>
             <pubDate>Tue, 02 Jan 2024 01:09:38 GMT</pubDate>
@@ -69,13 +76,6 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309248&amp;t=board</guid>
             <pubDate>Mon, 01 Jan 2024 21:14:15 GMT</pubDate>
             <content:encoded><![CDATA[금융]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.12.18] 인구 구조, 기대와 현실의 갭 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17295306&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17295306&amp;t=board</guid>
-            <pubDate>Mon, 01 Jan 2024 21:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[경제일반]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
@@ -366,6 +366,13 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20230627/85dcbb5ba12ae.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[24.01.02] 💰<서울의 봄>을 보면 한국 경제가 보인다? (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437402&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437402&amp;t=board</guid>
+            <pubDate>Tue, 02 Jan 2024 02:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[23.12.22] 💰 대주주 요건이 바뀐다고? (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17351966&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17351966&amp;t=board</guid>
@@ -439,13 +446,6 @@
             <title><![CDATA[[23.12.08] 💰할인행사에서 내 지갑 지키는 법 3 (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17205966&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17205966&amp;t=board</guid>
-            <pubDate>Mon, 01 Jan 2024 21:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.12.07] 💰반려견 입양 후 지출이 늘었어요 (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17171457&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17171457&amp;t=board</guid>
             <pubDate>Mon, 01 Jan 2024 21:14:33 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
