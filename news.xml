@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2024-01-03T02:27:38.440Z</updated>
+    <updated>2024-01-03T03:18:56.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[24.01.03] 반도체, 다시 봄이 올까?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17450949&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17450949&amp;t=board"/>
+        <updated>2024-01-03T03:18:23.924Z</updated>
+        <content type="html"><![CDATA[산업]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.01.03] 2024년, AI폰의 등장]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17450919&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17450919&amp;t=board"/>
+        <updated>2024-01-03T03:18:23.934Z</updated>
+        <content type="html"><![CDATA[산업]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[24.01.02] 청년희망적금, 만기가 코앞이에요]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437193&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17321196&amp;t=board"/>
         <updated>2024-01-02T22:15:35.928Z</updated>
         <content type="html"><![CDATA[산업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.12.19] 네 번째 이통사, 가능할까요?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309270&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309270&amp;t=board"/>
-        <updated>2024-01-02T22:15:35.929Z</updated>
-        <content type="html"><![CDATA[산업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23.12.19] 주택담보대출, 요즘 금리는 어때?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309248&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309248&amp;t=board"/>
-        <updated>2024-01-02T22:15:35.931Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
     </entry>
 </feed>

@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 02:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 03:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[24.01.03] 반도체, 다시 봄이 올까? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17450949&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17450949&amp;t=board</guid>
+            <pubDate>Wed, 03 Jan 2024 03:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.01.03] 2024년, AI폰의 등장 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17450919&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17450919&amp;t=board</guid>
+            <pubDate>Wed, 03 Jan 2024 03:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[24.01.02] 청년희망적금, 만기가 코앞이에요 (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437193&amp;t=board</link>
@@ -62,20 +76,6 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17321196&amp;t=board</guid>
             <pubDate>Tue, 02 Jan 2024 22:15:35 GMT</pubDate>
             <content:encoded><![CDATA[산업]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.12.19] 네 번째 이통사, 가능할까요? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309270&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309270&amp;t=board</guid>
-            <pubDate>Tue, 02 Jan 2024 22:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[산업]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.12.19] 주택담보대출, 요즘 금리는 어때? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309248&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17309248&amp;t=board</guid>
-            <pubDate>Tue, 02 Jan 2024 22:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[금융]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
@@ -366,6 +366,13 @@
             <enclosure url="https://cdn.imweb.me/thumbnail/20230627/85dcbb5ba12ae.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[24.01.03] 💰내가 산 삼성전자, 이제 오르려나? (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17451018&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17451018&amp;t=board</guid>
+            <pubDate>Wed, 03 Jan 2024 03:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[24.01.02] 💰<서울의 봄>을 보면 한국 경제가 보인다? (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437402&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17437402&amp;t=board</guid>
@@ -439,13 +446,6 @@
             <title><![CDATA[[23.12.11] 💰아르바이트생은 어떤 세금을 낼까? (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237887&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17237887&amp;t=board</guid>
-            <pubDate>Tue, 02 Jan 2024 22:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[23.12.08] 💰할인행사에서 내 지갑 지키는 법 3 (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17205966&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17205966&amp;t=board</guid>
             <pubDate>Tue, 02 Jan 2024 22:15:54 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
