@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 10:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 11:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17321196&amp;t=board</guid>
             <pubDate>Tue, 02 Jan 2024 22:15:35 GMT</pubDate>
             <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											3,000~4,000만원
+										
+																		아파트 입주해야 하는데, 직장이 멀어졌어요!																			N (어피티 ─ 머니로그)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 03 Jan 2024 11:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240103/ab62a01a39569.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Tue, 02 Jan 2024 22:15:48 GMT</pubDate>
             <content:encoded><![CDATA[2,000만원 이하]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230705/a5158b79e9f2d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											2,000~3,000만원
-										
-																		소비를 줄이는 확실한 방법? 1년 차 사원의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15547377&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15547377&amp;t=board</guid>
-            <pubDate>Tue, 02 Jan 2024 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20230627/85dcbb5ba12ae.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[24.01.03] 💰내가 산 삼성전자, 이제 오르려나? (어피티 ─ 머니레터)]]></title>
