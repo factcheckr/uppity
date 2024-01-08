@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2024-01-08T01:14:10.486Z</updated>
+    <updated>2024-01-08T02:30:57.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
         <title type="html"><![CDATA[[24.01.08] 올해 주목할 기술은?]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2024-01-07T16:19:33.325Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17506558&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17506558&amp;t=board"/>
+        <updated>2024-01-08T02:30:27.582Z</updated>
         <content type="html"><![CDATA[산업]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[24.01.08] 남양유업 경영권, 오너에서 사모펀드로]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2024-01-07T16:19:33.325Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17506537&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17506537&amp;t=board"/>
+        <updated>2024-01-08T02:30:27.583Z</updated>
         <content type="html"><![CDATA[산업]]></content>
     </entry>
     <entry>
