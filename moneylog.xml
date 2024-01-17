@@ -4,9 +4,21 @@
         <title>어피티 ─ 머니로그</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 11:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 12:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		내 집 마련 vs 노후 대비 어디에 집중하지?																			N]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 17 Jan 2024 11:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/53a814a3fb847.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[공지
 																			
@@ -282,18 +294,6 @@
             <pubDate>Wed, 17 Jan 2024 09:17:28 GMT</pubDate>
             <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230726/b59e49c1049e6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											4,000~5,000만원
-										
-																		1억 원을 모으고, 그 다음 스텝은? 3년 차 사무직의 머니로그]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15760924&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15760924&amp;t=board</guid>
-            <pubDate>Wed, 17 Jan 2024 09:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20230719/05a919c03c093.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
