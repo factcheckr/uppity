@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 06:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 07:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17750917&amp;t=board</guid>
             <pubDate>Wed, 31 Jan 2024 03:16:48 GMT</pubDate>
             <content:encoded><![CDATA[경제일반]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		30살 전에 1억 모으기, 가능할까요?																			N (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17853831&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17853831&amp;t=board</guid>
+            <pubDate>Wed, 31 Jan 2024 07:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240131/395ca4fffa77c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Wed, 31 Jan 2024 03:17:00 GMT</pubDate>
             <content:encoded><![CDATA[2,000만원 이하]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230802/6f02012f1dafb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											4,000~5,000만원
-										
-																		연금, 이게 맞을까요? 9년 차 직장인의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15865633&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15865633&amp;t=board</guid>
-            <pubDate>Wed, 31 Jan 2024 03:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20230726/b59e49c1049e6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[24.01.31] 💰초코파이로 번 돈, 항암제에 투자한다? (어피티 ─ 머니레터)]]></title>
