@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/moneyletter_archive</id>
     <title>어피티 ─ 머니레터</title>
-    <updated>2024-02-22T04:18:54.965Z</updated>
+    <updated>2024-02-22T05:18:38.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12106700&amp;t=board</id>
         <link href="https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12106700&amp;t=board"/>
         <updated>2024-02-22T04:18:43.954Z</updated>
+        <content type="html"><![CDATA[UPPITY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.02.22] 💰외국인들이 불닭을 얼마나 먹었길래]]></title>
+        <id>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18135268&amp;t=board</id>
+        <link href="https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18135268&amp;t=board"/>
+        <updated>2024-02-22T05:18:30.394Z</updated>
         <content type="html"><![CDATA[UPPITY]]></content>
     </entry>
     <entry>
@@ -87,13 +94,6 @@
         <id>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17921305&amp;t=board</id>
         <link href="https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17921305&amp;t=board"/>
         <updated>2024-02-22T04:18:43.972Z</updated>
-        <content type="html"><![CDATA[UPPITY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[24.02.02] 💰올해부터 명절 음식은 편의점에서]]></title>
-        <id>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17878453&amp;t=board</id>
-        <link href="https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17878453&amp;t=board"/>
-        <updated>2024-02-22T04:18:43.974Z</updated>
         <content type="html"><![CDATA[UPPITY]]></content>
     </entry>
 </feed>
