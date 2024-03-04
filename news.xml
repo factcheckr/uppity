@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2024-03-04T14:15:33.369Z</updated>
+    <updated>2024-03-04T15:18:07.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[24.03.05] 엔터업계 역대급 실적, 그래도 불안한 이유]]></title>
+        <id>javascript:;</id>
+        <link href="javascript:;"/>
+        <updated>2024-03-04T15:17:40.441Z</updated>
+        <content type="html"><![CDATA[산업]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.03.05] 강매 끝, 국산 가스터빈 등장]]></title>
+        <id>javascript:;</id>
+        <link href="javascript:;"/>
+        <updated>2024-03-04T15:17:40.442Z</updated>
+        <content type="html"><![CDATA[산업]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[24.03.04] PCE는 조금 잡혔다!]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18277148&amp;t=board</id>
@@ -59,20 +73,6 @@
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18203359&amp;t=board</id>
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18203359&amp;t=board"/>
         <updated>2024-03-04T07:07:14.206Z</updated>
-        <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[24.02.26] 대출한도 전만큼 잘 안 나온다?]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18177656&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18177656&amp;t=board"/>
-        <updated>2024-03-04T07:07:14.207Z</updated>
-        <content type="html"><![CDATA[생활경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[24.02.26] 은행 없는 금융회사들, 이렇게 잘나가도 되나요]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18177591&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18177591&amp;t=board"/>
-        <updated>2024-03-04T07:07:14.209Z</updated>
         <content type="html"><![CDATA[금융]]></content>
     </entry>
 </feed>

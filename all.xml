@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 14:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 15:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[24.03.05] 엔터업계 역대급 실적, 그래도 불안한 이유 (어피티 ─ 뉴스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 04 Mar 2024 15:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.05] 강매 끝, 국산 가스터빈 등장 (어피티 ─ 뉴스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 04 Mar 2024 15:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[24.03.04] PCE는 조금 잡혔다! (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18277148&amp;t=board</link>
@@ -60,20 +74,6 @@
             <title><![CDATA[[24.02.27] 시장의 새로운 빅이슈: AI와 중국 (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18203359&amp;t=board</link>
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18203359&amp;t=board</guid>
-            <pubDate>Mon, 04 Mar 2024 07:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[금융]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[24.02.26] 대출한도 전만큼 잘 안 나온다? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18177656&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18177656&amp;t=board</guid>
-            <pubDate>Mon, 04 Mar 2024 07:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[생활경제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[24.02.26] 은행 없는 금융회사들, 이렇게 잘나가도 되나요 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18177591&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18177591&amp;t=board</guid>
             <pubDate>Mon, 04 Mar 2024 07:07:14 GMT</pubDate>
             <content:encoded><![CDATA[금융]]></content:encoded>
         </item>
