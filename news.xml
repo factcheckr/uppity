@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2024-03-06T01:08:21.897Z</updated>
+    <updated>2024-03-06T02:21:03.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
         <title type="html"><![CDATA[[24.03.06] 저렴이 알짜 브랜드의 증시 입성]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2024-03-05T21:14:32.151Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18312814&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18312814&amp;t=board"/>
+        <updated>2024-03-06T02:20:33.109Z</updated>
         <content type="html"><![CDATA[증권]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[24.03.06] 대출보다 카드론이 싸게 먹힌다?]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2024-03-05T21:14:32.151Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18312780&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18312780&amp;t=board"/>
+        <updated>2024-03-06T02:20:33.112Z</updated>
         <content type="html"><![CDATA[금융]]></content>
     </entry>
     <entry>
