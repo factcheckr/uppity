@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2024-03-07T00:56:35.679Z</updated>
+    <updated>2024-03-07T01:32:46.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
         <title type="html"><![CDATA[[24.03.07] ‘전세’, 제대로 한번 보자]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2024-03-07T00:56:07.460Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18329834&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18329834&amp;t=board"/>
+        <updated>2024-03-07T01:32:13.878Z</updated>
         <content type="html"><![CDATA[부동산]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[24.03.07] ‘제2차 차이나쇼크’라고 합니다]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2024-03-07T00:56:07.460Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18329809&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18329809&amp;t=board"/>
+        <updated>2024-03-07T01:32:13.882Z</updated>
         <content type="html"><![CDATA[글로벌]]></content>
     </entry>
     <entry>
