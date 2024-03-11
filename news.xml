@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2024-03-11T13:18:15.398Z</updated>
+    <updated>2024-03-11T14:15:51.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[24.03.12] 어쩐지 장보기 무섭다 싶더니]]></title>
+        <id>javascript:;</id>
+        <link href="javascript:;"/>
+        <updated>2024-03-11T14:15:23.043Z</updated>
+        <content type="html"><![CDATA[생활경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.03.12] ‘지도표 성경김’ 새 주인 찾아요]]></title>
+        <id>javascript:;</id>
+        <link href="javascript:;"/>
+        <updated>2024-03-11T14:15:23.045Z</updated>
+        <content type="html"><![CDATA[산업]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[24.03.11] KBO는 티빙에서만 본다?]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18387434&amp;t=board</id>
@@ -60,19 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18312780&amp;t=board"/>
         <updated>2024-03-11T09:17:32.704Z</updated>
         <content type="html"><![CDATA[금융]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[24.03.05] 엔터업계 역대급 실적, 그래도 불안한 이유]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18298166&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18298166&amp;t=board"/>
-        <updated>2024-03-11T09:17:32.705Z</updated>
-        <content type="html"><![CDATA[산업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[24.03.05] 강매 끝, 국산 가스터빈 등장]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18298152&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18298152&amp;t=board"/>
-        <updated>2024-03-11T09:17:32.707Z</updated>
-        <content type="html"><![CDATA[산업]]></content>
     </entry>
 </feed>
