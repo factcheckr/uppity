@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2024-03-13T17:15:58.528Z</updated>
+    <updated>2024-03-13T18:20:11.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://uppity.co.kr/favicon.ico</icon>
+    <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[24.03.14] 결혼식장 가격, 투명해지나요?]]></title>
+        <id>javascript:;</id>
+        <link href="javascript:;"/>
+        <updated>2024-03-13T18:19:44.442Z</updated>
+        <content type="html"><![CDATA[생활경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.03.14] 네이버·카카오, 누가 누가 돈 덜 쓰나]]></title>
+        <id>javascript:;</id>
+        <link href="javascript:;"/>
+        <updated>2024-03-13T18:19:44.442Z</updated>
+        <content type="html"><![CDATA[산업]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.03.13] 확률형 아이템 정보, 제대로 공개될 확률은?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18423034&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18423034&amp;t=board"/>
+        <updated>2024-03-13T18:19:44.442Z</updated>
+        <content type="html"><![CDATA[산업]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.03.13] 버블이냐 아니냐 그것이 문제로다]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18423016&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18423016&amp;t=board"/>
+        <updated>2024-03-13T18:19:44.443Z</updated>
+        <content type="html"><![CDATA[경제일반]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.03.12] 어쩐지 장보기 무섭다 싶더니]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18398915&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18398915&amp;t=board"/>
+        <updated>2024-03-13T18:19:44.443Z</updated>
+        <content type="html"><![CDATA[생활경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.03.12] ‘지도표 성경김’ 새 주인 찾아요]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18398903&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18398903&amp;t=board"/>
+        <updated>2024-03-13T18:19:44.447Z</updated>
+        <content type="html"><![CDATA[산업]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.03.11] KBO는 티빙에서만 본다?]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18387434&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18387434&amp;t=board"/>
+        <updated>2024-03-13T18:19:44.449Z</updated>
+        <content type="html"><![CDATA[산업]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.03.11] 2년째 1달러에 1,300원대]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18387334&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18387334&amp;t=board"/>
+        <updated>2024-03-13T18:19:44.450Z</updated>
+        <content type="html"><![CDATA[금융]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.03.08] “a bit more”]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18344078&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18344078&amp;t=board"/>
+        <updated>2024-03-13T18:19:44.452Z</updated>
+        <content type="html"><![CDATA[글로벌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24.03.08] 두 자릿수 하락한 애플 주가]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18344061&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18344061&amp;t=board"/>
+        <updated>2024-03-13T18:19:44.453Z</updated>
+        <content type="html"><![CDATA[산업]]></content>
+    </entry>
 </feed>
