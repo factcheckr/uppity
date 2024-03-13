@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 04:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 05:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,18 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18329809&amp;t=board</guid>
             <pubDate>Tue, 12 Mar 2024 21:14:52 GMT</pubDate>
             <content:encoded><![CDATA[글로벌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		미국 간호사의 꿈을 향한 재테크 플랜이 필요해요																			N (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18424168&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18424168&amp;t=board</guid>
+            <pubDate>Wed, 13 Mar 2024 05:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240313/08c3796dbee57.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -352,18 +364,6 @@
             <pubDate>Tue, 12 Mar 2024 21:15:06 GMT</pubDate>
             <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230913/d495f9a80b7d7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											3,000~4,000만원
-										
-																		노는 돈, 어떻게 관리하지? 제약회사 신입사원의 머니로그 (어피티 ─ 머니로그)]]></title>
-            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16264661&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16264661&amp;t=board</guid>
-            <pubDate>Tue, 12 Mar 2024 21:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20230906/520fadaf32913.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🏃‍♀️ 머니레터 구독자를 위한 온보딩 가이드 (ver. 2.0) (어피티 ─ 머니레터)]]></title>
