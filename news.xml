@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2024-03-14T01:07:56.791Z</updated>
+    <updated>2024-03-14T02:21:21.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
     <entry>
         <title type="html"><![CDATA[[24.03.14] 결혼식장 가격, 투명해지나요?]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2024-03-13T18:19:44.442Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18432286&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18432286&amp;t=board"/>
+        <updated>2024-03-14T02:20:51.567Z</updated>
         <content type="html"><![CDATA[생활경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[24.03.14] 네이버·카카오, 누가 누가 돈 덜 쓰나]]></title>
-        <id>javascript:;</id>
-        <link href="javascript:;"/>
-        <updated>2024-03-13T18:19:44.442Z</updated>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18432276&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18432276&amp;t=board"/>
+        <updated>2024-03-14T02:20:51.568Z</updated>
         <content type="html"><![CDATA[산업]]></content>
     </entry>
     <entry>
