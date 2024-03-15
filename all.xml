@@ -1,7 +1,620 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/uppity/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-03-15T08:20:22.566Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 15 Mar 2024 09:16:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[24.03.15] 돌아온 ‘주총’ 시즌 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18453275&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18453275&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[증권]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.15] 티빙 KBO, 기대와 실망 사이 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18453227&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18453227&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.14] 결혼식장 가격, 투명해지나요? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18432286&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18432286&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[생활경제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.14] 네이버·카카오, 누가 누가 돈 덜 쓰나 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18432276&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18432276&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.13] 확률형 아이템 정보, 제대로 공개될 확률은? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18423034&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18423034&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.13] 버블이냐 아니냐 그것이 문제로다 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18423016&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18423016&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[경제일반]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.12] 어쩐지 장보기 무섭다 싶더니 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18398915&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18398915&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[생활경제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.12] ‘지도표 성경김’ 새 주인 찾아요 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18398903&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18398903&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.11] KBO는 티빙에서만 본다? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18387434&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18387434&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.11] 2년째 1달러에 1,300원대 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18387334&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18387334&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[금융]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		미국 간호사의 꿈을 향한 재테크 플랜이 필요해요 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18424168&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18424168&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240313/08c3796dbee57.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		400만 원까지 늘어난 카드값 줄일 수 있을까요? (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18319899&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18319899&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240306/293fc0df6bc1f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		돈 모으기와 독립 준비 둘 다 잘 해내고 싶어요 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18218044&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18218044&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240228/061d0cff50767.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		둘이서 따로, 또 같이 자산을 만들어가고 싶어요 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18123277&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18123277&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240221/f3123d54f0ece.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		결혼을 앞두고 단기 재무계획이 필요해요! (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18021113&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18021113&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240214/331271224266c.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											3,000~4,000만원
+										
+																		자취를 향한 장기 레이스, 성공할 수 있을까요? (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17942898&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17942898&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240206/41042f60bd167.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		30살 전에 1억 모으기, 가능할까요? (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17853831&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17853831&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240131/395ca4fffa77c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		‘취뽀’ 후 월급 관리, 잘하는 것 맞나요? (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17727691&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17727691&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240124/5a667cfa219d4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		내 집 마련 vs 노후 대비 어디에 집중하지? (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17628360&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17628360&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/782fffcbefb41.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											2,000~3,000만원
+										
+																		나는 저축왕인데 내가 얼마 모았는지 몰라 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17548566&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17548566&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240110/2d69f30a106f8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											3,000~4,000만원
+										
+																		아파트 입주해야 하는데, 직장이 멀어졌어요! (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17457229&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17457229&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240103/ab62a01a39569.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		씀씀이가 커서 고민이에요! 사무관리 3년 차 사원의 머니로그 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17321629&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17321629&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231220/2ea80bbb0eb07.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											3,000~4,000만원
+										
+																		자취 시작 후, 소비가 늘었어요 재무회계 4년 차 대리의 머니로그 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17253031&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17253031&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231213/81ab6cca246ac.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		반려견 입양 후, 지출이 늘었어요! 2년 차 사원의 머니로그 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17159964&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17159964&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231206/1b9b77197e62b.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											2,000~3,000만원
+										
+																		월급 195만 원 저축 100만 원, 빠듯한 지갑이 걱정이에요 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17061149&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17061149&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2,000~3,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231129/d968f1befca27.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											3,000~4,000만원
+										
+																		‘텅장’에서 벗어나는 방법? 3년 차 사원의 머니로그 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16967133&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16967133&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231122/d31e0a1994b36.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		지출 구조조정이 필요해요! 3년 차 컨설턴트의 머니로그 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16894064&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16894064&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231115/9a7b950d64af1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		높은 연봉, 커지는 지출? 금융권 3년 차 대리의 머니로그 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16817956&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16817956&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231108/d8323d9f7cf3b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		지출 구조, 어떻게 개선하지? 8년 차 선임연구원의 머니로그 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16750073&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16750073&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231103/2941940726d79.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											2,000만원 이하
+										
+																		석사 과정 스타트! 공대 대학원생의 일주일 머니로그 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16690514&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16690514&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2,000만원 이하]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231025/ab90d2af9ddc7.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											4,000~5,000만원
+										
+																		전세로 한 번 더 살아, 말아? 제조업 연구원의 머니로그 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16626759&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16626759&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[4,000~5,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231018/fbaed3d88203c.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		내 집 마련 후 걱정이 커진 7년 차 과장의 머니로그 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16565291&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16565291&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20231011/06afcfec61766.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											3,000~4,000만원
+										
+																		나는야 연어 애호가! 2년 차 사원의 머니로그 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16404421&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16404421&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3,000~4,000만원]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20230920/36992a0b7aaba.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											5,000만원 이상
+										
+																		분 단위로 알차게 삶을 누리는 마케팅팀 대리의 머니로그 (어피티 ─ 머니로그)]]></title>
+            <link>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16331563&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneylog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=16331563&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20230913/d495f9a80b7d7.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🏃‍♀️ 머니레터 구독자를 위한 온보딩 가이드 (ver. 2.0) (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12106700&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12106700&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.14] 💰웨딩 업체 견적 공개하면 위약금 내라? (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18436089&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18436089&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.13] 💰내가 산 주식 버블인지 아닌지 어떻게 알아요? (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18423114&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18423114&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.12] 💰과일? 비싸서 아예 안 먹어요 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18406455&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18406455&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.11] 💰야구, 티빙에서 '지금은' 무료예요 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18391246&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18391246&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.08] 💰MZ 두 명 중 한 명은 개인비서가 있다고? (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18349594&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18349594&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.07] 💰카드값 400만원, 어떻게 줄이죠? (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18333538&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18333538&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.06] 💰고신용 씨(3n살): 고신용이지만 의미 없어요 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18318030&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18318030&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.05] 💰하이브, 매출은 흥! 주가는 흠.. (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18302477&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18302477&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.03.04] 💰퇴직금도 내 '급여'입니다 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18294890&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18294890&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.02.29] 💰내 능력의 한계는 회사가 결정한다? (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18236100&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18236100&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.02.28] 💰밥솥 대신 즉석밥 사는 MZ (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18218249&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18218249&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24.02.27] 💰세계 경제의 다음 빅이슈는 이것 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18203542&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18203542&amp;t=board</guid>
+            <pubDate>Fri, 15 Mar 2024 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[돈과 친해지고 싶은 사회초년생의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/122</link>
+            <guid>https://brunch.co.kr/@uppity/122</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 야간대학을 다닐 때부터 꾸준히 일하면서 성실하게 살았습니다.&nbsp;철새가 서식지를 이동하듯이 자주 일터를 옮겨 다녔어요.  프로필  •&nbsp;닉네임:&nbsp;호준 •&nbsp;나이:&nbsp;만 27세 •&nbsp;하는 일:&nbsp;대출법인 사무관리 •&nbsp;첫 직장 기준 근속연수:&nbsp;1년 8개월]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/4Kv0k-Z3T5qP6CE8WL5sBc5z2ao.JPG" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[인도네시아 의류벤더의 알뜰살뜰한 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/121</link>
+            <guid>https://brunch.co.kr/@uppity/121</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 물욕 많은 미니멀리스트, 재기발랄한 활동가, 내일이라도 퇴사하고 싶지만 일 욕심도 많습니다.&nbsp;사진은 제 삶의 70%를 보내고 있는 회사 공장 안, 기숙사 앞에서 찍었어요.  프로필  •&nbsp;닉네임:&nbsp;윤맹구 •&nbsp;나이:&nbsp;만 26세 • 하는 일:&nbsp;]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/onyzoYNWRbHkR0JZssYxHnHpJ8Y.png" length="0" type="image/fpng/"/>
+        </item>
+        <item>
+            <title><![CDATA[경제적 자유를  꿈꾸는 파이어족의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/119</link>
+            <guid>https://brunch.co.kr/@uppity/119</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기  노을 지는 풍경이 예뻐서 찍었어요. 지금은 저층으로 이사 와서 보기 힘든 풍경이 됐어요. 프로필  •&nbsp;닉네임:&nbsp;참새 •&nbsp;나이:&nbsp;만 25세 • 하는 일:&nbsp;공공기관 / 행정직 / 사원 / 교육훈련 • 첫 직장 기준 근속연수:&nbsp;1년 • 세전연]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/XAWRx2Fc5qRWGaYaRrAtvI-J7pA.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[쓸 땐 쓰고 아낄 땐 아끼는 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/120</link>
+            <guid>https://brunch.co.kr/@uppity/120</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 친구들이 좋은 30대, 현재의 삶을 충실하게 즐기며 지내고 있습니다.  프로필  •&nbsp;닉네임:&nbsp;알미 •&nbsp;나이:&nbsp;만 30세 • 하는 일:&nbsp;요양원 인테리어 • 첫 직장 기준 근속연수:&nbsp;4년 • 세전연봉:&nbsp;4,080만 원 • 월평균 실수령액:&nbsp;2]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/Sxep5EemL2X78cslcGWEtKWd7_Y.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[미라클모닝, 프리랜서의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/118</link>
+            <guid>https://brunch.co.kr/@uppity/118</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 오전 5시~5시 30분에 일어나 미라클모닝으로 아침 시간을 활용하고 있어요.&nbsp;이른 시간에 독서나 운동 등 저만의 루틴을 정해서 꾸준히 실천하는 중이에요.&nbsp;매일 어제보다 더 성장하는 삶을 기대합니다. 프로필  •&nbsp;닉네임:&nbsp;마우 •&nbsp;나이:&nbsp;만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/nyDzqMVPpoelSqO_qKct8rPqqUE.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[포인트의 습격, 펭구 매니아의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/117</link>
+            <guid>https://brunch.co.kr/@uppity/117</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 약 5년 전부터 저를 소개할 때마다 아이폰 기본 이모지로 만든&nbsp;이미지를 사용해왔어요. 꼬마펭귄 핑구 캐릭터를 좋아합니다. 프로필  •&nbsp;닉네임:&nbsp;핑가 •&nbsp;나이:&nbsp;만 21세 • 하는 일:&nbsp;보험사 /&nbsp;보험료 정·청산 • 첫 직장 기준 근속연수:]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/HdnLKAbzql1bIzUNUhkJKv-xiPc.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[검소한 투자 모범생,  금융권 직원의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/116</link>
+            <guid>https://brunch.co.kr/@uppity/116</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기  등산을 좋아하고 건강한 라이프스타일을 꿈꾸는 20대 직장인입니다.  프로필  •&nbsp;닉네임:&nbsp;아롱 •&nbsp;나이:&nbsp;만 26세 • 하는 일:&nbsp;금융회사&nbsp;/&nbsp;기획팀&nbsp;/&nbsp;사원&nbsp;/&nbsp;인사총무회계 • 첫 직장 기준 근속연수:&nbsp;1년 5개월 • 세전연봉:&nbsp;3,5]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/2G_vbhBzNeCeEzM0UbzYSMYHTmc.png" length="0" type="image/fpng/"/>
+        </item>
+        <item>
+            <title><![CDATA[1주일에 10만 원으로 살기, 머니챌린저의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/115</link>
+            <guid>https://brunch.co.kr/@uppity/115</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 안녕하세요, 맑이라고 합니다. 저는 요즘&nbsp;‘1주일에 10만 원으로 살기’ 프로젝트를 하고 있어요.  프로필  •&nbsp;닉네임:&nbsp;맑 •&nbsp;나이:&nbsp;만 25세 • 하는 일:&nbsp;공립 유치원교사 • 첫 직장 기준 근속연수:&nbsp;4년 차 • 세전연봉:&nbsp;3,400]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/eiwO7u30xlGASmj64VvITTY-mPg.JPG" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[몸과 마음을 건강하게, 사회초년생의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/114</link>
+            <guid>https://brunch.co.kr/@uppity/114</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 세상 모든 사람이 건강한 삶을 추구하면 좋겠습니다. 채식을 주로 하면서 제로 웨이스트와 미니멀 라이프를 실천합니다. 몸과 마음이 건강한 사람이 되고 싶습니다.  프로필  •&nbsp;닉네임:&nbsp;소루 •&nbsp;나이:&nbsp;만 23세 • 하는 일:&nbsp;공공기관 / 지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/E3vs3VyJQySgVbzByKtPeDv_l-8.JPG" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[학자금 대출 탈출, 3년차 선임의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/113</link>
+            <guid>https://brunch.co.kr/@uppity/113</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 미래에 걱정이 많은 직장인입니다. 요즘 최대 관심사는 학자금 대출 탈출과 사랑, 덕질입니다. 코로나로 올해 콘서트가 취소돼서, 아쉬운 마음에 작년 사진을 골라봤어요.  프로필  •&nbsp;닉네임:&nbsp;힘내라빅히트 •&nbsp;나이:&nbsp;만 26세 • 하는 일:&nbsp;]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/6e0xM8vYNPJK8TyAO5m7abtMYTQ.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[12년간 열두 권의 가계부, IT 디자이너의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/112</link>
+            <guid>https://brunch.co.kr/@uppity/112</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 20살 때부터 32살까지 매일 작성한 가계부가 총 12권 있어요. 가계부를 작성하는 습관이 절약하고 목돈 모으는 데 큰 도움이 됐습니다.  프로필  •&nbsp;닉네임:&nbsp;annie •&nbsp;나이:&nbsp;만 30세 • 하는 일:&nbsp;보험사 / 디지털팀 / IT 디]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/1I0EnbXR8ilPmHoGlo58crSWO1c.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[열정 가득한 일상, 디지털 마케터의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/111</link>
+            <guid>https://brunch.co.kr/@uppity/111</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 저는 하고 싶은 것, 궁금한 것, 이루고 싶은 게 많은 직장인입니다. 회사 외에 문화생활, 연애까지, 주어지는 건 무엇이든 열심히 하는 열정 가득한 일상을 사는 편이에요.  프로필  •&nbsp;닉네임:&nbsp;둥둥 •&nbsp;나이:&nbsp;만 30세 • 하는 일:&nbsp;디]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/bZRYlg35l4OBUVXofsNnxBtQBUs.png" length="0" type="image/fpng/"/>
+        </item>
+        <item>
+            <title><![CDATA[서른 전에 1억 만들기! 26살  사원의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/110</link>
+            <guid>https://brunch.co.kr/@uppity/110</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기  월세 생활 6년을 마무리하고, 햇살이 따뜻한 전셋집으로 이사했습니다. 언젠가는 작더라도 저의 집을 마련하고 싶어요. 30살까지 1억을 모으는 게 목표입니다.  프로필  •&nbsp;닉네임:&nbsp;월세탈출인간 •&nbsp;나이:&nbsp;만 25세 • 하는 일:&nbsp;공공기관]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/tQSxLMpZvEaK3ErvQSQ9dAaK3Ok.png" length="0" type="image/fpng/"/>
+        </item>
+        <item>
+            <title><![CDATA[신용카드가 고민!  투잡하는 21살의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/109</link>
+            <guid>https://brunch.co.kr/@uppity/109</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 차를 타고 엄마와 가까운 해변 근처 카페에 가면 생각도 정리되고, 마음이 한결 편해져요.  프로필  •&nbsp;닉네임:&nbsp;희희낙락 •&nbsp;나이:&nbsp;만 20세 • 하는 일:&nbsp;&nbsp;학교 사무보조(평일) / 카페(주말) • 첫 직장 기준 근속연수:&nbsp;1년 3개월]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/J0Fkj7dlY7qkHrPh4r2n4gDst74.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[배우는 게 즐거워! 26살 연구 개발원의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/108</link>
+            <guid>https://brunch.co.kr/@uppity/108</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 영어, 수영, 필라테스, 보컬 등 항상 새로운 것을 배우고 좋아하는 회사원입니다.  프로필  •&nbsp;닉네임:&nbsp;면주 •&nbsp;나이:&nbsp;만 26세 • 하는 일:&nbsp;연구개발직 • 첫 직장 기준 근속연수:&nbsp;1년 6개월 • 세전연봉:&nbsp;3,550만 원 • 월평균]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/sNrNYspOjJ3IJsYa6Zy05cfeFFU.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[부자 습관을 타고난  30살 디자이너의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/107</link>
+            <guid>https://brunch.co.kr/@uppity/107</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기  회사 업무와 디자인 외주, 당근마켓, 중고거래로 부수입을 올리는 5년 차 직장인입니다. 인생의 기쁨은 먹고 마시는 즐거움에서 찾아요.  프로필  •&nbsp;닉네임:&nbsp;녹차맛아몬드 •&nbsp;나이:&nbsp;만 29세 • 하는 일:&nbsp;언론사 디자인팀 • 첫 직장 기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/cvjP_PMSXIkvY1zfH2N9z8mjNIo.png" length="0" type="image/fpng/"/>
+        </item>
+        <item>
+            <title><![CDATA[취미는 해외여행,  5년 차 직장인의  머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/106</link>
+            <guid>https://brunch.co.kr/@uppity/106</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기   여행하고 경험하는 걸 사랑하는 회사원이에요. 누구와 함께 하는 여행인지가 무척 중요하다고 생각해요. 앞으로 경제적 자유를 누리고 싶은 꿈을 갖고 있어요.  프로필  •&nbsp;닉네임:&nbsp;바우 •&nbsp;나이:&nbsp;만 31세 • 하는 일:&nbsp;중견기업 / 경영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/JejHcmaFIJOvFJPeEHTwV8ssnhM.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[연봉만큼 저축한 4년 차 주임의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/104</link>
+            <guid>https://brunch.co.kr/@uppity/104</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기  프로필  •&nbsp;닉네임:&nbsp;미소콩지 • 나이:&nbsp;만 30세 • 하는 일:&nbsp;금융회사 / 경영관리 &nbsp;/ 4년 차 / 주임 • 첫 직장 기준 근속연수:&nbsp;4년 • 세전연봉: 4,200만 원 • 월평균 실수령액:&nbsp;약 220만 원 • 현재 자산 현금성 자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/nvOAdxPr0fwvMMo63GDStjqM6B8.jpg" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[좋아하는 일을 하는 28살 활동가의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/103</link>
+            <guid>https://brunch.co.kr/@uppity/103</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기 취미가 많아 행복하지만, 걱정이 많아 불안한 20대 직장인입니다. 취직한 이후에 차가 생겨서, 이곳저곳 운전해 다니는 게 행복합니다.  프로필  •&nbsp;닉네임:&nbsp;고사리 • 나이: 만 28세 • 하는 일: NGO 단체 활동가 / 1년 차 • 첫]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/nhzwnwU2fvfmNh2Z7UMBtfPbEbY.HEIC" length="0" type="image/fjpg/"/>
+        </item>
+        <item>
+            <title><![CDATA[초년생 돈 관리의 정석, 3년 차 사원의 머니로그 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/102</link>
+            <guid>https://brunch.co.kr/@uppity/102</guid>
+            <pubDate>Fri, 15 Mar 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[월요일부터 금요일까지, 매일 아침&nbsp;메일함으로 찾아가는&nbsp;&lt;돈 되는 이야기&gt;를 놓치지 마세요! →&nbsp;어피티 머니레터 구독하기  프로필  • 닉네임: 양갱 • 나이: 만 27세 • 하는 일: 개발자 / 시스템운영팀 / 3년 차 / 사원 (내년에 승진 예정) • 첫 직장 기준 근속연수: 3년 차 • 세전연봉: 약 3,300만 원 • 월평균 실수령액:&nbsp;약 238만 원]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/D1VnzMNCmyZ4CCJ9HXLVCh4e_GM.jpg" length="0" type="image/fjpg/"/>
+        </item>
+    </channel>
+</rss>
