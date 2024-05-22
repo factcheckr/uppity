@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 05:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 06:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어피티의 마케터가 되 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/128</link>
+            <guid>https://brunch.co.kr/@uppity/128</guid>
+            <pubDate>Wed, 22 May 2024 06:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[오랜만에 만난 친구와 식후 젤라또 먹으면서 대화를 나눴어요.  “그래서 요즘 무슨 일 해?” “아~ 나 ‘어피티’에서 마케팅해!” “어피티 알지, 거기서 제품도 팔아?” “아니~ 뉴스레터 하고 있어!” “??? (이해불가) 그래서 무슨 일해?”  뉴스레터와 마케팅, 이 요상한 조합을 이해하지 못한 친구가 자꾸만 되묻더라고요.&nbsp;돌아보니 저도 그랬어요. ‘어피]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/z4Go4qZGkfSO1NsyO2Afr2XSZFg.png" length="0" type="image/fpng/"/>
+        </item>
         <item>
             <title><![CDATA[‘어피티’를 ‘어피치’라 부르던 독자가 이사가 되다 (어피티 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@uppity/127</link>
