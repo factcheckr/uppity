@@ -4,9 +4,17 @@
         <title>어피티 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 05:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 06:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 어피티에 합류한 이유]]></title>
+            <link>https://brunch.co.kr/@uppity/132</link>
+            <guid>https://brunch.co.kr/@uppity/132</guid>
+            <pubDate>Wed, 19 Jun 2024 06:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 어피티에서 세일즈 디렉터와 운영이사를 맡고 있는 소피입니다. 제가 팀블로그의 첫 스타트를 끊은 게 엊그제 같은데 벌써 한 바퀴를 돌아 제 차례가 돌아왔습니다(!)이번 글에는 어떤 이야기를 담아볼까, 고민하다가 이 글을 보실 여러분은 어떤 마음일까를 생각해 봤어요.  아마 어피티 팀블로그를 처음부터 끝까지 집중해서 보는 분은 지원 전에 보시지 않]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/SK7n_Jrgen3-4UtthPe7a2FBSQc.jpg" length="0" type="image/fjpg/"/>
+        </item>
         <item>
             <title><![CDATA[철학과의 첫 인턴,  경제 미디어 어피티 인 더 빌딩]]></title>
             <link>https://brunch.co.kr/@uppity/131</link>
