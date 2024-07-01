@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 11:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 12:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스레터 ‘잘쓸레터’ 탄생기(2) (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/133</link>
+            <guid>https://brunch.co.kr/@uppity/133</guid>
+            <pubDate>Mon, 01 Jul 2024 12:36:22 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 고영피딥니다. 제가 돌아왔습니다.&nbsp;지난 브런치글 1편에서 감질나게 이야기를 끊었던 것 사과드립니다.&nbsp;주말 드라마처럼 극적인 장면에서 몰입감을 불러일으키기 위해서 그랬던 것은 아니고…&nbsp;몇 자 쓰고 나니 힘들어서 쓰다가 그만둬 버렸습니다.  이번 글에서도 같은 일이 반복될지 모르니 또 미리 사과드립니다. 이런 제가 잘쓸레터를 매주 한 편씩 끊임없이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/SuEupT8MFc4njGpB1Ml382juLdQ.png" length="0" type="image/fpng/"/>
+        </item>
         <item>
             <title><![CDATA[내가 어피티에 합류한 이유 (어피티 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@uppity/132</link>
