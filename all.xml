@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 12:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 13:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어피티 요즘 어때요? (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/135</link>
+            <guid>https://brunch.co.kr/@uppity/135</guid>
+            <pubDate>Fri, 02 Aug 2024 13:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 무더운 여름에 다시 돌아온 어피티의 순간들을 수집하고 있는 진진입니다! 3개월이 채 안 되는 사이에 어피티는 이사를 했고, 머니레터의 6주년을 맞이했으며, 뉴스토스트 라이브도 시작했어요.  그동안의 소식을 전해드릴게요! :)  어피티 이사하다! 이사를 앞둔 북클럽의 모습이에요. 북클럽을 하다 보니 함께 나누어 재밌고, 책 내용도 더 잘 기억에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/9YFc3OdLPvJbeRx2zXpMlPRqcbY.png" length="0" type="image/fpng/"/>
+        </item>
         <item>
             <title><![CDATA[대숏폼의 시대에 라이브의 귀환이라니 (어피티 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@uppity/134</link>
