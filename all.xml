@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 01:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 03:00:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <pubDate>Tue, 26 Nov 2024 01:42:29 GMT</pubDate>
             <content:encoded><![CDATA[5,000만원 이상]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230913/d495f9a80b7d7.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[경쟁률 30:1 '바질'과 함께한 잘쓸레터 차담회후기 (어피티 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@uppity/140</link>
+            <guid>https://brunch.co.kr/@uppity/140</guid>
+            <pubDate>Tue, 26 Nov 2024 03:00:24 GMT</pubDate>
+            <content:encoded><![CDATA[바질로 차회를 해달라고요? 글, 티 크리에이터 세레나  필진 소개:&nbsp;차’와 관련된 모든 것을 기획하는 ‘차 문화 기획자’ 세레나입니다. 차 여행, 찻자리, 전시 등을 기획하고 있고 현재는 서울시 서촌 라운지에서 계절 차회를 진행하고 있어요. 인스타그램에서 숨겨진 찻집을 소개하고 한국차를 알리는 티-크리에이터로 활동하며 도서 『내가 좋아하는 것들, 차』 를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C240x240.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/6ypz/image/p0AzCKt8lPcZwVtN0G6lhiyyxdc.png" length="0" type="image/fpng/"/>
         </item>
         <item>
             <title><![CDATA[어피티 독자는 씨간장 (청년축제 부스 참가 후기) (어피티 ─ 브런치)]]></title>
